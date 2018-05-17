@@ -1,0 +1,96 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportDataEntryStandAlone
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINNT\system32\CRUFLCfs.dll=
+C:\WINNT\Crystal\u25rt.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+C:\WINNT\system32\CRUFLCfs.dll=
+C:\WINNT\Crystal\u25rt.dll=
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportDataEntryStandAlone\CCRDE06.dll=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\System\ADO\msado15.dll=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+C:\WINNT\system32\CRUFLCfs.dll=Yes
+C:\WINNT\Crystal\u25rt.dll=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportDataEntryStandAlone\CCRDE06.dll=$(WinSysPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\System\ADO\msado15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+C:\WINNT\system32\SSCSDK32.DLL=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\WINNT\system32\CRUFLCfs.dll=$(WinSysPath)
+C:\WINNT\Crystal\u25rt.dll=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=CCRDE06.CAB
+DepCabRun=CCRDE06.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportDataEntryStandAlone
+ProjectFolder=D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportDataEntryStandAlone
+ServerSideCab=
+File1=D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportDataEntryStandAlone\CCRDE06.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

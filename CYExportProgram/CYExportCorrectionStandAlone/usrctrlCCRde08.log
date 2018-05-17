@@ -1,0 +1,764 @@
+Line 331: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 356: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 381: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 406: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 431: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 456: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 481: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 506: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 531: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 600: Class MpUserControls.utxtTextBilling of control utxtPymChqBnk was not a loaded control class.
+Line 622: Class MpUserControls.utxtTextBilling of control utxtPymChqBnk was not a loaded control class.
+Line 644: Class MpUserControls.utxtTextBilling of control utxtPymChqBnk was not a loaded control class.
+Line 666: Class MpUserControls.utxtTextBilling of control utxtPymChqBnk was not a loaded control class.
+Line 688: Class MpUserControls.utxtTextBilling of control utxtPymChqNum was not a loaded control class.
+Line 710: Class MpUserControls.utxtTextBilling of control utxtPymChqNum was not a loaded control class.
+Line 732: Class MpUserControls.utxtTextBilling of control utxtPymChqNum was not a loaded control class.
+Line 866: Class MpUserControls.utxtNumBilling of control utxtPymReference was not a loaded control class.
+Line 891: Class MpUserControls.utxtTextBilling of control utxtCustName was not a loaded control class.
+Line 913: Class MpUserControls.utxtNumBilling of control utxtChange was not a loaded control class.
+Line 938: Class MpUserControls.utxtNumBilling of control utxtCustNo was not a loaded control class.
+Line 959: Class MpUserControls.utxtNumBilling of control utxtPymAdr was not a loaded control class.
+Line 984: Class MpUserControls.utxtNumBilling of control utxtPymChq was not a loaded control class.
+Line 1008: Class MpUserControls.utxtNumBilling of control utxtPymChq was not a loaded control class.
+Line 1032: Class MpUserControls.utxtNumBilling of control utxtPymChq was not a loaded control class.
+Line 1056: Class MpUserControls.utxtNumBilling of control utxtPymChq was not a loaded control class.
+Line 1080: Class MpUserControls.utxtNumBilling of control utxtPymChq was not a loaded control class.
+Line 1104: Class MpUserControls.utxtNumBilling of control utxtPymCash was not a loaded control class.
+Line 1128: Class MpUserControls.utxtTextBilling of control utxtCnlTeller2 was not a loaded control class.
+Line 1150: Class MpUserControls.utxtTextBilling of control utxtCnlDteTme was not a loaded control class.
+Line 1172: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum2 was not a loaded control class.
+Line 1196: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum3 was not a loaded control class.
+Line 1220: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum4 was not a loaded control class.
+Line 1244: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum5 was not a loaded control class.
+Line 1268: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum6 was not a loaded control class.
+Line 1292: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum7 was not a loaded control class.
+Line 1316: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum8 was not a loaded control class.
+Line 1340: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum9 was not a loaded control class.
+Line 1364: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum1 was not a loaded control class.
+Line 1388: Class MpUserControls.utxtNumBilling of control utxtCnlEntnum10 was not a loaded control class.
+Line 1412: Class MpUserControls.utxtNumBilling of control utxtCnlCCRNum was not a loaded control class.
+Line 1436: Class MpUserControls.utxtTextBilling of control utxtCnlVessel was not a loaded control class.
+Line 1458: Class MpUserControls.utxtTextBilling of control utxtCnlCommodity was not a loaded control class.
+Line 1480: Class MpUserControls.utxtTextBilling of control utxtCnlBroker was not a loaded control class.
+Line 1502: Class MpUserControls.utxtTextBilling of control utxtCnlExporter was not a loaded control class.
+Line 1524: Class MpUserControls.utxtNumBilling of control utxtCnlRefnum was not a loaded control class.
+Line 1545: Class MpUserControls.utxtNumBilling of control utxtCnlSeqnum was not a loaded control class.
+Line 1566: Class MpUserControls.utxtTextBilling of control utxtDetDteTme was not a loaded control class.
+Line 1588: Class MpUserControls.utxtTextBilling of control utxtDetTeller1 was not a loaded control class.
+Line 1899: Class MpUserControls.utxtTextBilling of control utxtDetExporter was not a loaded control class.
+Line 1919: Class MpUserControls.utxtTextBilling of control utxtDetBroker was not a loaded control class.
+Line 1939: Class MpUserControls.utxtTextBilling of control utxtDetVessel was not a loaded control class.
+Line 1959: Class MpUserControls.utxtNumBilling of control utxtDetCCRNum was not a loaded control class.
+Line 1981: Class MpUserControls.utxtNumBilling of control utxtDetSeqnum was not a loaded control class.
+Line 2002: Class MpUserControls.utxtNumBilling of control utxtDetRefnum was not a loaded control class.
+Line 2023: Class MpUserControls.utxtTextBilling of control utxtDetCommodity was not a loaded control class.
+Line 2043: Class MpUserControls.utxtTextBilling of control utxtDetWhfcde was not a loaded control class.
+Line 2066: Class MpUserControls.utxtTextBilling of control utxtDetGuarantee was not a loaded control class.
+Line 2193: Class MpUserControls.utxtTextBilling of control utxtCntNum was not a loaded control class.
+Line 2212: Class MpUserControls.utxtTextBilling of control utxtTeller was not a loaded control class.
+Line 2234: Class MpUserControls.utxtTextBilling of control utxtTimeIssue was not a loaded control class.
+Line 2256: Class MpUserControls.utxtTextBilling of control utxtDateIssue was not a loaded control class.
+Line 2278: Class MpUserControls.utxtTextBilling of control utxtNewCntPrefix was not a loaded control class.
+Line 2298: Class MpUserControls.utxtTextBilling of control utxtCntPrefix was not a loaded control class.
+Line 2318: Class MpUserControls.utxtNumBilling of control utxtSeqnum was not a loaded control class.
+Line 2340: Class MpUserControls.utxtNumBilling of control utxtRefnum was not a loaded control class.
+Line 2362: Class MpUserControls.utxtTextBilling of control utxtNewCntNum was not a loaded control class.
+Line 2483: Class MpUserControls.utxtTextBilling of control utxtPymChqNum was not a loaded control class.
+Line 2505: Class MpUserControls.utxtTextBilling of control utxtPymChqNum was not a loaded control class.
+Line 2533: Class MpUserControls.utxtNumBilling of control utxtTotal was not a loaded control class.
+Line 2553: Class MpUserControls.utxtTextBilling of control utxtPymChqBnk was not a loaded control class.
+Line 2688: Class MpUserControls.utxtTextBilling of control utxtRefTeller was not a loaded control class.
+Line 2710: Class MpUserControls.utxtTextBilling of control utxtRefDate was not a loaded control class.
+Line 2732: Class MpUserControls.utxtNumBilling of control utxtRefEntno was not a loaded control class.
+Line 2757: Class MpUserControls.utxtNumBilling of control utxtRefCCR was not a loaded control class.
+Line 2781: Class MpUserControls.utxtTextBilling of control utxtRefVessel was not a loaded control class.
+Line 2803: Class MpUserControls.utxtTextBilling of control utxtRefCommodity was not a loaded control class.
+Line 2825: Class MpUserControls.utxtTextBilling of control utxtRefBroker was not a loaded control class.
+Line 2847: Class MpUserControls.utxtTextBilling of control utxtRefExporter was not a loaded control class.
+Line 2869: Class MpUserControls.utxtNumBilling of control utxtRefRefNum was not a loaded control class.
+Line 2890: Class MpUserControls.utxtNumBilling of control utxtRefSeq was not a loaded control class.
+Line 2910: Class MpUserControls.utxtNumBilling of control utxtRefCntno was not a loaded control class.
+Line 2931: Class MpUserControls.utxtTextBilling of control utxtRefPrefix was not a loaded control class.
+Line 339: The property name _ExtentX in utxtRefEntno is invalid.
+Line 340: The property name _ExtentY in utxtRefEntno is invalid.
+Line 352: The property name MaxLength in utxtRefEntno is invalid.
+Line 353: The property name Maskformat in utxtRefEntno is invalid.
+Line 354: The property name Maskformat in utxtRefEntno is invalid.
+Line 364: The property name _ExtentX in utxtRefEntno is invalid.
+Line 365: The property name _ExtentY in utxtRefEntno is invalid.
+Line 377: The property name MaxLength in utxtRefEntno is invalid.
+Line 378: The property name Maskformat in utxtRefEntno is invalid.
+Line 379: The property name Maskformat in utxtRefEntno is invalid.
+Line 389: The property name _ExtentX in utxtRefEntno is invalid.
+Line 390: The property name _ExtentY in utxtRefEntno is invalid.
+Line 402: The property name MaxLength in utxtRefEntno is invalid.
+Line 403: The property name Maskformat in utxtRefEntno is invalid.
+Line 404: The property name Maskformat in utxtRefEntno is invalid.
+Line 414: The property name _ExtentX in utxtRefEntno is invalid.
+Line 415: The property name _ExtentY in utxtRefEntno is invalid.
+Line 427: The property name MaxLength in utxtRefEntno is invalid.
+Line 428: The property name Maskformat in utxtRefEntno is invalid.
+Line 429: The property name Maskformat in utxtRefEntno is invalid.
+Line 439: The property name _ExtentX in utxtRefEntno is invalid.
+Line 440: The property name _ExtentY in utxtRefEntno is invalid.
+Line 452: The property name MaxLength in utxtRefEntno is invalid.
+Line 453: The property name Maskformat in utxtRefEntno is invalid.
+Line 454: The property name Maskformat in utxtRefEntno is invalid.
+Line 464: The property name _ExtentX in utxtRefEntno is invalid.
+Line 465: The property name _ExtentY in utxtRefEntno is invalid.
+Line 477: The property name MaxLength in utxtRefEntno is invalid.
+Line 478: The property name Maskformat in utxtRefEntno is invalid.
+Line 479: The property name Maskformat in utxtRefEntno is invalid.
+Line 489: The property name _ExtentX in utxtRefEntno is invalid.
+Line 490: The property name _ExtentY in utxtRefEntno is invalid.
+Line 502: The property name MaxLength in utxtRefEntno is invalid.
+Line 503: The property name Maskformat in utxtRefEntno is invalid.
+Line 504: The property name Maskformat in utxtRefEntno is invalid.
+Line 514: The property name _ExtentX in utxtRefEntno is invalid.
+Line 515: The property name _ExtentY in utxtRefEntno is invalid.
+Line 527: The property name MaxLength in utxtRefEntno is invalid.
+Line 528: The property name Maskformat in utxtRefEntno is invalid.
+Line 529: The property name Maskformat in utxtRefEntno is invalid.
+Line 539: The property name _ExtentX in utxtRefEntno is invalid.
+Line 540: The property name _ExtentY in utxtRefEntno is invalid.
+Line 552: The property name MaxLength in utxtRefEntno is invalid.
+Line 553: The property name Maskformat in utxtRefEntno is invalid.
+Line 554: The property name Maskformat in utxtRefEntno is invalid.
+Line 607: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 608: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 619: The property name Alignment in utxtPymChqBnk is invalid.
+Line 620: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 629: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 630: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 641: The property name Alignment in utxtPymChqBnk is invalid.
+Line 642: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 651: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 652: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 663: The property name Alignment in utxtPymChqBnk is invalid.
+Line 664: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 673: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 674: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 685: The property name Alignment in utxtPymChqBnk is invalid.
+Line 686: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 695: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 696: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 707: The property name Alignment in utxtPymChqNum is invalid.
+Line 708: The property name MaxLength in utxtPymChqNum is invalid.
+Line 717: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 718: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 729: The property name Alignment in utxtPymChqNum is invalid.
+Line 730: The property name MaxLength in utxtPymChqNum is invalid.
+Line 739: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 740: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 751: The property name Alignment in utxtPymChqNum is invalid.
+Line 752: The property name MaxLength in utxtPymChqNum is invalid.
+Line 872: The property name _ExtentX in utxtPymReference is invalid.
+Line 873: The property name _ExtentY in utxtPymReference is invalid.
+Line 884: The property name MaxLength in utxtPymReference is invalid.
+Line 885: The property name Maskformat in utxtPymReference is invalid.
+Line 886: The property name Maskformat in utxtPymReference is invalid.
+Line 887: The property name DecimalPlaces in utxtPymReference is invalid.
+Line 888: The property name First in utxtPymReference is invalid.
+Line 889: The property name Last in utxtPymReference is invalid.
+Line 898: The property name _ExtentX in utxtCustName is invalid.
+Line 899: The property name _ExtentY in utxtCustName is invalid.
+Line 911: The property name MaxLength in utxtCustName is invalid.
+Line 920: The property name _ExtentX in utxtChange is invalid.
+Line 921: The property name _ExtentY in utxtChange is invalid.
+Line 933: The property name MaxLength in utxtChange is invalid.
+Line 934: The property name Maskformat in utxtChange is invalid.
+Line 935: The property name Maskformat in utxtChange is invalid.
+Line 936: The property name DecimalPlaces in utxtChange is invalid.
+Line 944: The property name _ExtentX in utxtCustNo is invalid.
+Line 945: The property name _ExtentY in utxtCustNo is invalid.
+Line 956: The property name MaxLength in utxtCustNo is invalid.
+Line 957: The property name DecimalPlaces in utxtCustNo is invalid.
+Line 966: The property name _ExtentX in utxtPymAdr is invalid.
+Line 967: The property name _ExtentY in utxtPymAdr is invalid.
+Line 978: The property name MaxLength in utxtPymAdr is invalid.
+Line 979: The property name Maskformat in utxtPymAdr is invalid.
+Line 980: The property name Maskformat in utxtPymAdr is invalid.
+Line 981: The property name DecimalPlaces in utxtPymAdr is invalid.
+Line 982: The property name Last in utxtPymAdr is invalid.
+Line 991: The property name _ExtentX in utxtPymChq is invalid.
+Line 992: The property name _ExtentY in utxtPymChq is invalid.
+Line 1003: The property name MaxLength in utxtPymChq is invalid.
+Line 1004: The property name Maskformat in utxtPymChq is invalid.
+Line 1005: The property name Maskformat in utxtPymChq is invalid.
+Line 1006: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1015: The property name _ExtentX in utxtPymChq is invalid.
+Line 1016: The property name _ExtentY in utxtPymChq is invalid.
+Line 1027: The property name MaxLength in utxtPymChq is invalid.
+Line 1028: The property name Maskformat in utxtPymChq is invalid.
+Line 1029: The property name Maskformat in utxtPymChq is invalid.
+Line 1030: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1039: The property name _ExtentX in utxtPymChq is invalid.
+Line 1040: The property name _ExtentY in utxtPymChq is invalid.
+Line 1051: The property name MaxLength in utxtPymChq is invalid.
+Line 1052: The property name Maskformat in utxtPymChq is invalid.
+Line 1053: The property name Maskformat in utxtPymChq is invalid.
+Line 1054: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1063: The property name _ExtentX in utxtPymChq is invalid.
+Line 1064: The property name _ExtentY in utxtPymChq is invalid.
+Line 1075: The property name MaxLength in utxtPymChq is invalid.
+Line 1076: The property name Maskformat in utxtPymChq is invalid.
+Line 1077: The property name Maskformat in utxtPymChq is invalid.
+Line 1078: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1087: The property name _ExtentX in utxtPymChq is invalid.
+Line 1088: The property name _ExtentY in utxtPymChq is invalid.
+Line 1099: The property name MaxLength in utxtPymChq is invalid.
+Line 1100: The property name Maskformat in utxtPymChq is invalid.
+Line 1101: The property name Maskformat in utxtPymChq is invalid.
+Line 1102: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1110: The property name _ExtentX in utxtPymCash is invalid.
+Line 1111: The property name _ExtentY in utxtPymCash is invalid.
+Line 1122: The property name MaxLength in utxtPymCash is invalid.
+Line 1123: The property name Maskformat in utxtPymCash is invalid.
+Line 1124: The property name Maskformat in utxtPymCash is invalid.
+Line 1125: The property name DecimalPlaces in utxtPymCash is invalid.
+Line 1126: The property name First in utxtPymCash is invalid.
+Line 1135: The property name _ExtentX in utxtCnlTeller2 is invalid.
+Line 1136: The property name _ExtentY in utxtCnlTeller2 is invalid.
+Line 1148: The property name MaxLength in utxtCnlTeller2 is invalid.
+Line 1157: The property name _ExtentX in utxtCnlDteTme is invalid.
+Line 1158: The property name _ExtentY in utxtCnlDteTme is invalid.
+Line 1170: The property name MaxLength in utxtCnlDteTme is invalid.
+Line 1179: The property name _ExtentX in utxtCnlEntnum2 is invalid.
+Line 1180: The property name _ExtentY in utxtCnlEntnum2 is invalid.
+Line 1192: The property name MaxLength in utxtCnlEntnum2 is invalid.
+Line 1193: The property name Maskformat in utxtCnlEntnum2 is invalid.
+Line 1194: The property name Maskformat in utxtCnlEntnum2 is invalid.
+Line 1203: The property name _ExtentX in utxtCnlEntnum3 is invalid.
+Line 1204: The property name _ExtentY in utxtCnlEntnum3 is invalid.
+Line 1216: The property name MaxLength in utxtCnlEntnum3 is invalid.
+Line 1217: The property name Maskformat in utxtCnlEntnum3 is invalid.
+Line 1218: The property name Maskformat in utxtCnlEntnum3 is invalid.
+Line 1227: The property name _ExtentX in utxtCnlEntnum4 is invalid.
+Line 1228: The property name _ExtentY in utxtCnlEntnum4 is invalid.
+Line 1240: The property name MaxLength in utxtCnlEntnum4 is invalid.
+Line 1241: The property name Maskformat in utxtCnlEntnum4 is invalid.
+Line 1242: The property name Maskformat in utxtCnlEntnum4 is invalid.
+Line 1251: The property name _ExtentX in utxtCnlEntnum5 is invalid.
+Line 1252: The property name _ExtentY in utxtCnlEntnum5 is invalid.
+Line 1264: The property name MaxLength in utxtCnlEntnum5 is invalid.
+Line 1265: The property name Maskformat in utxtCnlEntnum5 is invalid.
+Line 1266: The property name Maskformat in utxtCnlEntnum5 is invalid.
+Line 1275: The property name _ExtentX in utxtCnlEntnum6 is invalid.
+Line 1276: The property name _ExtentY in utxtCnlEntnum6 is invalid.
+Line 1288: The property name MaxLength in utxtCnlEntnum6 is invalid.
+Line 1289: The property name Maskformat in utxtCnlEntnum6 is invalid.
+Line 1290: The property name Maskformat in utxtCnlEntnum6 is invalid.
+Line 1299: The property name _ExtentX in utxtCnlEntnum7 is invalid.
+Line 1300: The property name _ExtentY in utxtCnlEntnum7 is invalid.
+Line 1312: The property name MaxLength in utxtCnlEntnum7 is invalid.
+Line 1313: The property name Maskformat in utxtCnlEntnum7 is invalid.
+Line 1314: The property name Maskformat in utxtCnlEntnum7 is invalid.
+Line 1323: The property name _ExtentX in utxtCnlEntnum8 is invalid.
+Line 1324: The property name _ExtentY in utxtCnlEntnum8 is invalid.
+Line 1336: The property name MaxLength in utxtCnlEntnum8 is invalid.
+Line 1337: The property name Maskformat in utxtCnlEntnum8 is invalid.
+Line 1338: The property name Maskformat in utxtCnlEntnum8 is invalid.
+Line 1347: The property name _ExtentX in utxtCnlEntnum9 is invalid.
+Line 1348: The property name _ExtentY in utxtCnlEntnum9 is invalid.
+Line 1360: The property name MaxLength in utxtCnlEntnum9 is invalid.
+Line 1361: The property name Maskformat in utxtCnlEntnum9 is invalid.
+Line 1362: The property name Maskformat in utxtCnlEntnum9 is invalid.
+Line 1371: The property name _ExtentX in utxtCnlEntnum1 is invalid.
+Line 1372: The property name _ExtentY in utxtCnlEntnum1 is invalid.
+Line 1384: The property name MaxLength in utxtCnlEntnum1 is invalid.
+Line 1385: The property name Maskformat in utxtCnlEntnum1 is invalid.
+Line 1386: The property name Maskformat in utxtCnlEntnum1 is invalid.
+Line 1395: The property name _ExtentX in utxtCnlEntnum10 is invalid.
+Line 1396: The property name _ExtentY in utxtCnlEntnum10 is invalid.
+Line 1408: The property name MaxLength in utxtCnlEntnum10 is invalid.
+Line 1409: The property name Maskformat in utxtCnlEntnum10 is invalid.
+Line 1410: The property name Maskformat in utxtCnlEntnum10 is invalid.
+Line 1419: The property name _ExtentX in utxtCnlCCRNum is invalid.
+Line 1420: The property name _ExtentY in utxtCnlCCRNum is invalid.
+Line 1432: The property name MaxLength in utxtCnlCCRNum is invalid.
+Line 1433: The property name Maskformat in utxtCnlCCRNum is invalid.
+Line 1434: The property name Maskformat in utxtCnlCCRNum is invalid.
+Line 1443: The property name _ExtentX in utxtCnlVessel is invalid.
+Line 1444: The property name _ExtentY in utxtCnlVessel is invalid.
+Line 1456: The property name MaxLength in utxtCnlVessel is invalid.
+Line 1465: The property name _ExtentX in utxtCnlCommodity is invalid.
+Line 1466: The property name _ExtentY in utxtCnlCommodity is invalid.
+Line 1478: The property name MaxLength in utxtCnlCommodity is invalid.
+Line 1487: The property name _ExtentX in utxtCnlBroker is invalid.
+Line 1488: The property name _ExtentY in utxtCnlBroker is invalid.
+Line 1500: The property name MaxLength in utxtCnlBroker is invalid.
+Line 1509: The property name _ExtentX in utxtCnlExporter is invalid.
+Line 1510: The property name _ExtentY in utxtCnlExporter is invalid.
+Line 1522: The property name MaxLength in utxtCnlExporter is invalid.
+Line 1530: The property name _ExtentX in utxtCnlRefnum is invalid.
+Line 1531: The property name _ExtentY in utxtCnlRefnum is invalid.
+Line 1542: The property name MaxLength in utxtCnlRefnum is invalid.
+Line 1543: The property name First in utxtCnlRefnum is invalid.
+Line 1551: The property name _ExtentX in utxtCnlSeqnum is invalid.
+Line 1552: The property name _ExtentY in utxtCnlSeqnum is invalid.
+Line 1563: The property name MaxLength in utxtCnlSeqnum is invalid.
+Line 1564: The property name Last in utxtCnlSeqnum is invalid.
+Line 1573: The property name _ExtentX in utxtDetDteTme is invalid.
+Line 1574: The property name _ExtentY in utxtDetDteTme is invalid.
+Line 1586: The property name MaxLength in utxtDetDteTme is invalid.
+Line 1595: The property name _ExtentX in utxtDetTeller1 is invalid.
+Line 1596: The property name _ExtentY in utxtDetTeller1 is invalid.
+Line 1608: The property name MaxLength in utxtDetTeller1 is invalid.
+Line 1905: The property name _ExtentX in utxtDetExporter is invalid.
+Line 1906: The property name _ExtentY in utxtDetExporter is invalid.
+Line 1917: The property name MaxLength in utxtDetExporter is invalid.
+Line 1925: The property name _ExtentX in utxtDetBroker is invalid.
+Line 1926: The property name _ExtentY in utxtDetBroker is invalid.
+Line 1937: The property name MaxLength in utxtDetBroker is invalid.
+Line 1945: The property name _ExtentX in utxtDetVessel is invalid.
+Line 1946: The property name _ExtentY in utxtDetVessel is invalid.
+Line 1957: The property name MaxLength in utxtDetVessel is invalid.
+Line 1965: The property name _ExtentX in utxtDetCCRNum is invalid.
+Line 1966: The property name _ExtentY in utxtDetCCRNum is invalid.
+Line 1977: The property name MaxLength in utxtDetCCRNum is invalid.
+Line 1978: The property name Maskformat in utxtDetCCRNum is invalid.
+Line 1979: The property name Maskformat in utxtDetCCRNum is invalid.
+Line 1987: The property name _ExtentX in utxtDetSeqnum is invalid.
+Line 1988: The property name _ExtentY in utxtDetSeqnum is invalid.
+Line 1999: The property name MaxLength in utxtDetSeqnum is invalid.
+Line 2000: The property name Last in utxtDetSeqnum is invalid.
+Line 2008: The property name _ExtentX in utxtDetRefnum is invalid.
+Line 2009: The property name _ExtentY in utxtDetRefnum is invalid.
+Line 2020: The property name MaxLength in utxtDetRefnum is invalid.
+Line 2021: The property name First in utxtDetRefnum is invalid.
+Line 2029: The property name _ExtentX in utxtDetCommodity is invalid.
+Line 2030: The property name _ExtentY in utxtDetCommodity is invalid.
+Line 2041: The property name MaxLength in utxtDetCommodity is invalid.
+Line 2051: The property name _ExtentX in utxtDetWhfcde is invalid.
+Line 2052: The property name _ExtentY in utxtDetWhfcde is invalid.
+Line 2064: The property name MaxLength in utxtDetWhfcde is invalid.
+Line 2072: The property name _ExtentX in utxtDetGuarantee is invalid.
+Line 2073: The property name _ExtentY in utxtDetGuarantee is invalid.
+Line 2084: The property name MaxLength in utxtDetGuarantee is invalid.
+Line 2199: The property name _ExtentX in utxtCntNum is invalid.
+Line 2200: The property name _ExtentY in utxtCntNum is invalid.
+Line 2219: The property name _ExtentX in utxtTeller is invalid.
+Line 2220: The property name _ExtentY in utxtTeller is invalid.
+Line 2232: The property name MaxLength in utxtTeller is invalid.
+Line 2241: The property name _ExtentX in utxtTimeIssue is invalid.
+Line 2242: The property name _ExtentY in utxtTimeIssue is invalid.
+Line 2254: The property name MaxLength in utxtTimeIssue is invalid.
+Line 2263: The property name _ExtentX in utxtDateIssue is invalid.
+Line 2264: The property name _ExtentY in utxtDateIssue is invalid.
+Line 2276: The property name MaxLength in utxtDateIssue is invalid.
+Line 2284: The property name _ExtentX in utxtNewCntPrefix is invalid.
+Line 2285: The property name _ExtentY in utxtNewCntPrefix is invalid.
+Line 2296: The property name MaxLength in utxtNewCntPrefix is invalid.
+Line 2304: The property name _ExtentX in utxtCntPrefix is invalid.
+Line 2305: The property name _ExtentY in utxtCntPrefix is invalid.
+Line 2316: The property name MaxLength in utxtCntPrefix is invalid.
+Line 2324: The property name _ExtentX in utxtSeqnum is invalid.
+Line 2325: The property name _ExtentY in utxtSeqnum is invalid.
+Line 2336: The property name MaxLength in utxtSeqnum is invalid.
+Line 2337: The property name Maskformat in utxtSeqnum is invalid.
+Line 2338: The property name Maskformat in utxtSeqnum is invalid.
+Line 2346: The property name _ExtentX in utxtRefnum is invalid.
+Line 2347: The property name _ExtentY in utxtRefnum is invalid.
+Line 2358: The property name MaxLength in utxtRefnum is invalid.
+Line 2359: The property name Maskformat in utxtRefnum is invalid.
+Line 2360: The property name Maskformat in utxtRefnum is invalid.
+Line 2368: The property name _ExtentX in utxtNewCntNum is invalid.
+Line 2369: The property name _ExtentY in utxtNewCntNum is invalid.
+Line 2490: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 2491: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 2502: The property name Alignment in utxtPymChqNum is invalid.
+Line 2503: The property name MaxLength in utxtPymChqNum is invalid.
+Line 2512: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 2513: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 2524: The property name Alignment in utxtPymChqNum is invalid.
+Line 2525: The property name MaxLength in utxtPymChqNum is invalid.
+Line 2540: The property name _ExtentX in utxtTotal is invalid.
+Line 2541: The property name _ExtentY in utxtTotal is invalid.
+Line 2560: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 2561: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 2572: The property name Alignment in utxtPymChqBnk is invalid.
+Line 2573: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 2695: The property name _ExtentX in utxtRefTeller is invalid.
+Line 2696: The property name _ExtentY in utxtRefTeller is invalid.
+Line 2708: The property name MaxLength in utxtRefTeller is invalid.
+Line 2717: The property name _ExtentX in utxtRefDate is invalid.
+Line 2718: The property name _ExtentY in utxtRefDate is invalid.
+Line 2730: The property name MaxLength in utxtRefDate is invalid.
+Line 2740: The property name _ExtentX in utxtRefEntno is invalid.
+Line 2741: The property name _ExtentY in utxtRefEntno is invalid.
+Line 2753: The property name MaxLength in utxtRefEntno is invalid.
+Line 2754: The property name Maskformat in utxtRefEntno is invalid.
+Line 2755: The property name Maskformat in utxtRefEntno is invalid.
+Line 2764: The property name _ExtentX in utxtRefCCR is invalid.
+Line 2765: The property name _ExtentY in utxtRefCCR is invalid.
+Line 2777: The property name MaxLength in utxtRefCCR is invalid.
+Line 2778: The property name Maskformat in utxtRefCCR is invalid.
+Line 2779: The property name Maskformat in utxtRefCCR is invalid.
+Line 2788: The property name _ExtentX in utxtRefVessel is invalid.
+Line 2789: The property name _ExtentY in utxtRefVessel is invalid.
+Line 2801: The property name MaxLength in utxtRefVessel is invalid.
+Line 2810: The property name _ExtentX in utxtRefCommodity is invalid.
+Line 2811: The property name _ExtentY in utxtRefCommodity is invalid.
+Line 2823: The property name MaxLength in utxtRefCommodity is invalid.
+Line 2832: The property name _ExtentX in utxtRefBroker is invalid.
+Line 2833: The property name _ExtentY in utxtRefBroker is invalid.
+Line 2845: The property name MaxLength in utxtRefBroker is invalid.
+Line 2854: The property name _ExtentX in utxtRefExporter is invalid.
+Line 2855: The property name _ExtentY in utxtRefExporter is invalid.
+Line 2867: The property name MaxLength in utxtRefExporter is invalid.
+Line 2875: The property name _ExtentX in utxtRefRefNum is invalid.
+Line 2876: The property name _ExtentY in utxtRefRefNum is invalid.
+Line 2887: The property name MaxLength in utxtRefRefNum is invalid.
+Line 2888: The property name First in utxtRefRefNum is invalid.
+Line 2896: The property name _ExtentX in utxtRefSeq is invalid.
+Line 2897: The property name _ExtentY in utxtRefSeq is invalid.
+Line 2908: The property name MaxLength in utxtRefSeq is invalid.
+Line 2916: The property name _ExtentX in utxtRefCntno is invalid.
+Line 2917: The property name _ExtentY in utxtRefCntno is invalid.
+Line 2928: The property name MaxLength in utxtRefCntno is invalid.
+Line 2929: The property name Last in utxtRefCntno is invalid.
+Line 2937: The property name _ExtentX in utxtRefPrefix is invalid.
+Line 2938: The property name _ExtentY in utxtRefPrefix is invalid.
+Line 2949: The property name MaxLength in utxtRefPrefix is invalid.
+Line 339: The property name _ExtentX in utxtRefEntno is invalid.
+Line 340: The property name _ExtentY in utxtRefEntno is invalid.
+Line 352: The property name MaxLength in utxtRefEntno is invalid.
+Line 353: The property name Maskformat in utxtRefEntno is invalid.
+Line 354: The property name Maskformat in utxtRefEntno is invalid.
+Line 364: The property name _ExtentX in utxtRefEntno is invalid.
+Line 365: The property name _ExtentY in utxtRefEntno is invalid.
+Line 377: The property name MaxLength in utxtRefEntno is invalid.
+Line 378: The property name Maskformat in utxtRefEntno is invalid.
+Line 379: The property name Maskformat in utxtRefEntno is invalid.
+Line 389: The property name _ExtentX in utxtRefEntno is invalid.
+Line 390: The property name _ExtentY in utxtRefEntno is invalid.
+Line 402: The property name MaxLength in utxtRefEntno is invalid.
+Line 403: The property name Maskformat in utxtRefEntno is invalid.
+Line 404: The property name Maskformat in utxtRefEntno is invalid.
+Line 414: The property name _ExtentX in utxtRefEntno is invalid.
+Line 415: The property name _ExtentY in utxtRefEntno is invalid.
+Line 427: The property name MaxLength in utxtRefEntno is invalid.
+Line 428: The property name Maskformat in utxtRefEntno is invalid.
+Line 429: The property name Maskformat in utxtRefEntno is invalid.
+Line 439: The property name _ExtentX in utxtRefEntno is invalid.
+Line 440: The property name _ExtentY in utxtRefEntno is invalid.
+Line 452: The property name MaxLength in utxtRefEntno is invalid.
+Line 453: The property name Maskformat in utxtRefEntno is invalid.
+Line 454: The property name Maskformat in utxtRefEntno is invalid.
+Line 464: The property name _ExtentX in utxtRefEntno is invalid.
+Line 465: The property name _ExtentY in utxtRefEntno is invalid.
+Line 477: The property name MaxLength in utxtRefEntno is invalid.
+Line 478: The property name Maskformat in utxtRefEntno is invalid.
+Line 479: The property name Maskformat in utxtRefEntno is invalid.
+Line 489: The property name _ExtentX in utxtRefEntno is invalid.
+Line 490: The property name _ExtentY in utxtRefEntno is invalid.
+Line 502: The property name MaxLength in utxtRefEntno is invalid.
+Line 503: The property name Maskformat in utxtRefEntno is invalid.
+Line 504: The property name Maskformat in utxtRefEntno is invalid.
+Line 514: The property name _ExtentX in utxtRefEntno is invalid.
+Line 515: The property name _ExtentY in utxtRefEntno is invalid.
+Line 527: The property name MaxLength in utxtRefEntno is invalid.
+Line 528: The property name Maskformat in utxtRefEntno is invalid.
+Line 529: The property name Maskformat in utxtRefEntno is invalid.
+Line 539: The property name _ExtentX in utxtRefEntno is invalid.
+Line 540: The property name _ExtentY in utxtRefEntno is invalid.
+Line 552: The property name MaxLength in utxtRefEntno is invalid.
+Line 553: The property name Maskformat in utxtRefEntno is invalid.
+Line 554: The property name Maskformat in utxtRefEntno is invalid.
+Line 607: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 608: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 619: The property name Alignment in utxtPymChqBnk is invalid.
+Line 620: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 629: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 630: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 641: The property name Alignment in utxtPymChqBnk is invalid.
+Line 642: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 651: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 652: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 663: The property name Alignment in utxtPymChqBnk is invalid.
+Line 664: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 673: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 674: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 685: The property name Alignment in utxtPymChqBnk is invalid.
+Line 686: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 695: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 696: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 707: The property name Alignment in utxtPymChqNum is invalid.
+Line 708: The property name MaxLength in utxtPymChqNum is invalid.
+Line 717: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 718: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 729: The property name Alignment in utxtPymChqNum is invalid.
+Line 730: The property name MaxLength in utxtPymChqNum is invalid.
+Line 739: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 740: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 751: The property name Alignment in utxtPymChqNum is invalid.
+Line 752: The property name MaxLength in utxtPymChqNum is invalid.
+Line 872: The property name _ExtentX in utxtPymReference is invalid.
+Line 873: The property name _ExtentY in utxtPymReference is invalid.
+Line 884: The property name MaxLength in utxtPymReference is invalid.
+Line 885: The property name Maskformat in utxtPymReference is invalid.
+Line 886: The property name Maskformat in utxtPymReference is invalid.
+Line 887: The property name DecimalPlaces in utxtPymReference is invalid.
+Line 888: The property name First in utxtPymReference is invalid.
+Line 889: The property name Last in utxtPymReference is invalid.
+Line 898: The property name _ExtentX in utxtCustName is invalid.
+Line 899: The property name _ExtentY in utxtCustName is invalid.
+Line 911: The property name MaxLength in utxtCustName is invalid.
+Line 920: The property name _ExtentX in utxtChange is invalid.
+Line 921: The property name _ExtentY in utxtChange is invalid.
+Line 933: The property name MaxLength in utxtChange is invalid.
+Line 934: The property name Maskformat in utxtChange is invalid.
+Line 935: The property name Maskformat in utxtChange is invalid.
+Line 936: The property name DecimalPlaces in utxtChange is invalid.
+Line 944: The property name _ExtentX in utxtCustNo is invalid.
+Line 945: The property name _ExtentY in utxtCustNo is invalid.
+Line 956: The property name MaxLength in utxtCustNo is invalid.
+Line 957: The property name DecimalPlaces in utxtCustNo is invalid.
+Line 966: The property name _ExtentX in utxtPymAdr is invalid.
+Line 967: The property name _ExtentY in utxtPymAdr is invalid.
+Line 978: The property name MaxLength in utxtPymAdr is invalid.
+Line 979: The property name Maskformat in utxtPymAdr is invalid.
+Line 980: The property name Maskformat in utxtPymAdr is invalid.
+Line 981: The property name DecimalPlaces in utxtPymAdr is invalid.
+Line 982: The property name Last in utxtPymAdr is invalid.
+Line 991: The property name _ExtentX in utxtPymChq is invalid.
+Line 992: The property name _ExtentY in utxtPymChq is invalid.
+Line 1003: The property name MaxLength in utxtPymChq is invalid.
+Line 1004: The property name Maskformat in utxtPymChq is invalid.
+Line 1005: The property name Maskformat in utxtPymChq is invalid.
+Line 1006: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1015: The property name _ExtentX in utxtPymChq is invalid.
+Line 1016: The property name _ExtentY in utxtPymChq is invalid.
+Line 1027: The property name MaxLength in utxtPymChq is invalid.
+Line 1028: The property name Maskformat in utxtPymChq is invalid.
+Line 1029: The property name Maskformat in utxtPymChq is invalid.
+Line 1030: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1039: The property name _ExtentX in utxtPymChq is invalid.
+Line 1040: The property name _ExtentY in utxtPymChq is invalid.
+Line 1051: The property name MaxLength in utxtPymChq is invalid.
+Line 1052: The property name Maskformat in utxtPymChq is invalid.
+Line 1053: The property name Maskformat in utxtPymChq is invalid.
+Line 1054: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1063: The property name _ExtentX in utxtPymChq is invalid.
+Line 1064: The property name _ExtentY in utxtPymChq is invalid.
+Line 1075: The property name MaxLength in utxtPymChq is invalid.
+Line 1076: The property name Maskformat in utxtPymChq is invalid.
+Line 1077: The property name Maskformat in utxtPymChq is invalid.
+Line 1078: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1087: The property name _ExtentX in utxtPymChq is invalid.
+Line 1088: The property name _ExtentY in utxtPymChq is invalid.
+Line 1099: The property name MaxLength in utxtPymChq is invalid.
+Line 1100: The property name Maskformat in utxtPymChq is invalid.
+Line 1101: The property name Maskformat in utxtPymChq is invalid.
+Line 1102: The property name DecimalPlaces in utxtPymChq is invalid.
+Line 1110: The property name _ExtentX in utxtPymCash is invalid.
+Line 1111: The property name _ExtentY in utxtPymCash is invalid.
+Line 1122: The property name MaxLength in utxtPymCash is invalid.
+Line 1123: The property name Maskformat in utxtPymCash is invalid.
+Line 1124: The property name Maskformat in utxtPymCash is invalid.
+Line 1125: The property name DecimalPlaces in utxtPymCash is invalid.
+Line 1126: The property name First in utxtPymCash is invalid.
+Line 1135: The property name _ExtentX in utxtCnlTeller2 is invalid.
+Line 1136: The property name _ExtentY in utxtCnlTeller2 is invalid.
+Line 1148: The property name MaxLength in utxtCnlTeller2 is invalid.
+Line 1157: The property name _ExtentX in utxtCnlDteTme is invalid.
+Line 1158: The property name _ExtentY in utxtCnlDteTme is invalid.
+Line 1170: The property name MaxLength in utxtCnlDteTme is invalid.
+Line 1179: The property name _ExtentX in utxtCnlEntnum2 is invalid.
+Line 1180: The property name _ExtentY in utxtCnlEntnum2 is invalid.
+Line 1192: The property name MaxLength in utxtCnlEntnum2 is invalid.
+Line 1193: The property name Maskformat in utxtCnlEntnum2 is invalid.
+Line 1194: The property name Maskformat in utxtCnlEntnum2 is invalid.
+Line 1203: The property name _ExtentX in utxtCnlEntnum3 is invalid.
+Line 1204: The property name _ExtentY in utxtCnlEntnum3 is invalid.
+Line 1216: The property name MaxLength in utxtCnlEntnum3 is invalid.
+Line 1217: The property name Maskformat in utxtCnlEntnum3 is invalid.
+Line 1218: The property name Maskformat in utxtCnlEntnum3 is invalid.
+Line 1227: The property name _ExtentX in utxtCnlEntnum4 is invalid.
+Line 1228: The property name _ExtentY in utxtCnlEntnum4 is invalid.
+Line 1240: The property name MaxLength in utxtCnlEntnum4 is invalid.
+Line 1241: The property name Maskformat in utxtCnlEntnum4 is invalid.
+Line 1242: The property name Maskformat in utxtCnlEntnum4 is invalid.
+Line 1251: The property name _ExtentX in utxtCnlEntnum5 is invalid.
+Line 1252: The property name _ExtentY in utxtCnlEntnum5 is invalid.
+Line 1264: The property name MaxLength in utxtCnlEntnum5 is invalid.
+Line 1265: The property name Maskformat in utxtCnlEntnum5 is invalid.
+Line 1266: The property name Maskformat in utxtCnlEntnum5 is invalid.
+Line 1275: The property name _ExtentX in utxtCnlEntnum6 is invalid.
+Line 1276: The property name _ExtentY in utxtCnlEntnum6 is invalid.
+Line 1288: The property name MaxLength in utxtCnlEntnum6 is invalid.
+Line 1289: The property name Maskformat in utxtCnlEntnum6 is invalid.
+Line 1290: The property name Maskformat in utxtCnlEntnum6 is invalid.
+Line 1299: The property name _ExtentX in utxtCnlEntnum7 is invalid.
+Line 1300: The property name _ExtentY in utxtCnlEntnum7 is invalid.
+Line 1312: The property name MaxLength in utxtCnlEntnum7 is invalid.
+Line 1313: The property name Maskformat in utxtCnlEntnum7 is invalid.
+Line 1314: The property name Maskformat in utxtCnlEntnum7 is invalid.
+Line 1323: The property name _ExtentX in utxtCnlEntnum8 is invalid.
+Line 1324: The property name _ExtentY in utxtCnlEntnum8 is invalid.
+Line 1336: The property name MaxLength in utxtCnlEntnum8 is invalid.
+Line 1337: The property name Maskformat in utxtCnlEntnum8 is invalid.
+Line 1338: The property name Maskformat in utxtCnlEntnum8 is invalid.
+Line 1347: The property name _ExtentX in utxtCnlEntnum9 is invalid.
+Line 1348: The property name _ExtentY in utxtCnlEntnum9 is invalid.
+Line 1360: The property name MaxLength in utxtCnlEntnum9 is invalid.
+Line 1361: The property name Maskformat in utxtCnlEntnum9 is invalid.
+Line 1362: The property name Maskformat in utxtCnlEntnum9 is invalid.
+Line 1371: The property name _ExtentX in utxtCnlEntnum1 is invalid.
+Line 1372: The property name _ExtentY in utxtCnlEntnum1 is invalid.
+Line 1384: The property name MaxLength in utxtCnlEntnum1 is invalid.
+Line 1385: The property name Maskformat in utxtCnlEntnum1 is invalid.
+Line 1386: The property name Maskformat in utxtCnlEntnum1 is invalid.
+Line 1395: The property name _ExtentX in utxtCnlEntnum10 is invalid.
+Line 1396: The property name _ExtentY in utxtCnlEntnum10 is invalid.
+Line 1408: The property name MaxLength in utxtCnlEntnum10 is invalid.
+Line 1409: The property name Maskformat in utxtCnlEntnum10 is invalid.
+Line 1410: The property name Maskformat in utxtCnlEntnum10 is invalid.
+Line 1419: The property name _ExtentX in utxtCnlCCRNum is invalid.
+Line 1420: The property name _ExtentY in utxtCnlCCRNum is invalid.
+Line 1432: The property name MaxLength in utxtCnlCCRNum is invalid.
+Line 1433: The property name Maskformat in utxtCnlCCRNum is invalid.
+Line 1434: The property name Maskformat in utxtCnlCCRNum is invalid.
+Line 1443: The property name _ExtentX in utxtCnlVessel is invalid.
+Line 1444: The property name _ExtentY in utxtCnlVessel is invalid.
+Line 1456: The property name MaxLength in utxtCnlVessel is invalid.
+Line 1465: The property name _ExtentX in utxtCnlCommodity is invalid.
+Line 1466: The property name _ExtentY in utxtCnlCommodity is invalid.
+Line 1478: The property name MaxLength in utxtCnlCommodity is invalid.
+Line 1487: The property name _ExtentX in utxtCnlBroker is invalid.
+Line 1488: The property name _ExtentY in utxtCnlBroker is invalid.
+Line 1500: The property name MaxLength in utxtCnlBroker is invalid.
+Line 1509: The property name _ExtentX in utxtCnlExporter is invalid.
+Line 1510: The property name _ExtentY in utxtCnlExporter is invalid.
+Line 1522: The property name MaxLength in utxtCnlExporter is invalid.
+Line 1530: The property name _ExtentX in utxtCnlRefnum is invalid.
+Line 1531: The property name _ExtentY in utxtCnlRefnum is invalid.
+Line 1542: The property name MaxLength in utxtCnlRefnum is invalid.
+Line 1543: The property name First in utxtCnlRefnum is invalid.
+Line 1551: The property name _ExtentX in utxtCnlSeqnum is invalid.
+Line 1552: The property name _ExtentY in utxtCnlSeqnum is invalid.
+Line 1563: The property name MaxLength in utxtCnlSeqnum is invalid.
+Line 1564: The property name Last in utxtCnlSeqnum is invalid.
+Line 1573: The property name _ExtentX in utxtDetDteTme is invalid.
+Line 1574: The property name _ExtentY in utxtDetDteTme is invalid.
+Line 1586: The property name MaxLength in utxtDetDteTme is invalid.
+Line 1595: The property name _ExtentX in utxtDetTeller1 is invalid.
+Line 1596: The property name _ExtentY in utxtDetTeller1 is invalid.
+Line 1608: The property name MaxLength in utxtDetTeller1 is invalid.
+Line 1905: The property name _ExtentX in utxtDetExporter is invalid.
+Line 1906: The property name _ExtentY in utxtDetExporter is invalid.
+Line 1917: The property name MaxLength in utxtDetExporter is invalid.
+Line 1925: The property name _ExtentX in utxtDetBroker is invalid.
+Line 1926: The property name _ExtentY in utxtDetBroker is invalid.
+Line 1937: The property name MaxLength in utxtDetBroker is invalid.
+Line 1945: The property name _ExtentX in utxtDetVessel is invalid.
+Line 1946: The property name _ExtentY in utxtDetVessel is invalid.
+Line 1957: The property name MaxLength in utxtDetVessel is invalid.
+Line 1965: The property name _ExtentX in utxtDetCCRNum is invalid.
+Line 1966: The property name _ExtentY in utxtDetCCRNum is invalid.
+Line 1977: The property name MaxLength in utxtDetCCRNum is invalid.
+Line 1978: The property name Maskformat in utxtDetCCRNum is invalid.
+Line 1979: The property name Maskformat in utxtDetCCRNum is invalid.
+Line 1987: The property name _ExtentX in utxtDetSeqnum is invalid.
+Line 1988: The property name _ExtentY in utxtDetSeqnum is invalid.
+Line 1999: The property name MaxLength in utxtDetSeqnum is invalid.
+Line 2000: The property name Last in utxtDetSeqnum is invalid.
+Line 2008: The property name _ExtentX in utxtDetRefnum is invalid.
+Line 2009: The property name _ExtentY in utxtDetRefnum is invalid.
+Line 2020: The property name MaxLength in utxtDetRefnum is invalid.
+Line 2021: The property name First in utxtDetRefnum is invalid.
+Line 2029: The property name _ExtentX in utxtDetCommodity is invalid.
+Line 2030: The property name _ExtentY in utxtDetCommodity is invalid.
+Line 2041: The property name MaxLength in utxtDetCommodity is invalid.
+Line 2051: The property name _ExtentX in utxtDetWhfcde is invalid.
+Line 2052: The property name _ExtentY in utxtDetWhfcde is invalid.
+Line 2064: The property name MaxLength in utxtDetWhfcde is invalid.
+Line 2072: The property name _ExtentX in utxtDetGuarantee is invalid.
+Line 2073: The property name _ExtentY in utxtDetGuarantee is invalid.
+Line 2084: The property name MaxLength in utxtDetGuarantee is invalid.
+Line 2199: The property name _ExtentX in utxtCntNum is invalid.
+Line 2200: The property name _ExtentY in utxtCntNum is invalid.
+Line 2219: The property name _ExtentX in utxtTeller is invalid.
+Line 2220: The property name _ExtentY in utxtTeller is invalid.
+Line 2232: The property name MaxLength in utxtTeller is invalid.
+Line 2241: The property name _ExtentX in utxtTimeIssue is invalid.
+Line 2242: The property name _ExtentY in utxtTimeIssue is invalid.
+Line 2254: The property name MaxLength in utxtTimeIssue is invalid.
+Line 2263: The property name _ExtentX in utxtDateIssue is invalid.
+Line 2264: The property name _ExtentY in utxtDateIssue is invalid.
+Line 2276: The property name MaxLength in utxtDateIssue is invalid.
+Line 2284: The property name _ExtentX in utxtNewCntPrefix is invalid.
+Line 2285: The property name _ExtentY in utxtNewCntPrefix is invalid.
+Line 2296: The property name MaxLength in utxtNewCntPrefix is invalid.
+Line 2304: The property name _ExtentX in utxtCntPrefix is invalid.
+Line 2305: The property name _ExtentY in utxtCntPrefix is invalid.
+Line 2316: The property name MaxLength in utxtCntPrefix is invalid.
+Line 2324: The property name _ExtentX in utxtSeqnum is invalid.
+Line 2325: The property name _ExtentY in utxtSeqnum is invalid.
+Line 2336: The property name MaxLength in utxtSeqnum is invalid.
+Line 2337: The property name Maskformat in utxtSeqnum is invalid.
+Line 2338: The property name Maskformat in utxtSeqnum is invalid.
+Line 2346: The property name _ExtentX in utxtRefnum is invalid.
+Line 2347: The property name _ExtentY in utxtRefnum is invalid.
+Line 2358: The property name MaxLength in utxtRefnum is invalid.
+Line 2359: The property name Maskformat in utxtRefnum is invalid.
+Line 2360: The property name Maskformat in utxtRefnum is invalid.
+Line 2368: The property name _ExtentX in utxtNewCntNum is invalid.
+Line 2369: The property name _ExtentY in utxtNewCntNum is invalid.
+Line 2490: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 2491: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 2502: The property name Alignment in utxtPymChqNum is invalid.
+Line 2503: The property name MaxLength in utxtPymChqNum is invalid.
+Line 2512: The property name _ExtentX in utxtPymChqNum is invalid.
+Line 2513: The property name _ExtentY in utxtPymChqNum is invalid.
+Line 2524: The property name Alignment in utxtPymChqNum is invalid.
+Line 2525: The property name MaxLength in utxtPymChqNum is invalid.
+Line 2540: The property name _ExtentX in utxtTotal is invalid.
+Line 2541: The property name _ExtentY in utxtTotal is invalid.
+Line 2560: The property name _ExtentX in utxtPymChqBnk is invalid.
+Line 2561: The property name _ExtentY in utxtPymChqBnk is invalid.
+Line 2572: The property name Alignment in utxtPymChqBnk is invalid.
+Line 2573: The property name MaxLength in utxtPymChqBnk is invalid.
+Line 2695: The property name _ExtentX in utxtRefTeller is invalid.
+Line 2696: The property name _ExtentY in utxtRefTeller is invalid.
+Line 2708: The property name MaxLength in utxtRefTeller is invalid.
+Line 2717: The property name _ExtentX in utxtRefDate is invalid.
+Line 2718: The property name _ExtentY in utxtRefDate is invalid.
+Line 2730: The property name MaxLength in utxtRefDate is invalid.
+Line 2740: The property name _ExtentX in utxtRefEntno is invalid.
+Line 2741: The property name _ExtentY in utxtRefEntno is invalid.
+Line 2753: The property name MaxLength in utxtRefEntno is invalid.
+Line 2754: The property name Maskformat in utxtRefEntno is invalid.
+Line 2755: The property name Maskformat in utxtRefEntno is invalid.
+Line 2764: The property name _ExtentX in utxtRefCCR is invalid.
+Line 2765: The property name _ExtentY in utxtRefCCR is invalid.
+Line 2777: The property name MaxLength in utxtRefCCR is invalid.
+Line 2778: The property name Maskformat in utxtRefCCR is invalid.
+Line 2779: The property name Maskformat in utxtRefCCR is invalid.
+Line 2788: The property name _ExtentX in utxtRefVessel is invalid.
+Line 2789: The property name _ExtentY in utxtRefVessel is invalid.
+Line 2801: The property name MaxLength in utxtRefVessel is invalid.
+Line 2810: The property name _ExtentX in utxtRefCommodity is invalid.
+Line 2811: The property name _ExtentY in utxtRefCommodity is invalid.
+Line 2823: The property name MaxLength in utxtRefCommodity is invalid.
+Line 2832: The property name _ExtentX in utxtRefBroker is invalid.
+Line 2833: The property name _ExtentY in utxtRefBroker is invalid.
+Line 2845: The property name MaxLength in utxtRefBroker is invalid.
+Line 2854: The property name _ExtentX in utxtRefExporter is invalid.
+Line 2855: The property name _ExtentY in utxtRefExporter is invalid.
+Line 2867: The property name MaxLength in utxtRefExporter is invalid.
+Line 2875: The property name _ExtentX in utxtRefRefNum is invalid.
+Line 2876: The property name _ExtentY in utxtRefRefNum is invalid.
+Line 2887: The property name MaxLength in utxtRefRefNum is invalid.
+Line 2888: The property name First in utxtRefRefNum is invalid.
+Line 2896: The property name _ExtentX in utxtRefSeq is invalid.
+Line 2897: The property name _ExtentY in utxtRefSeq is invalid.
+Line 2908: The property name MaxLength in utxtRefSeq is invalid.
+Line 2916: The property name _ExtentX in utxtRefCntno is invalid.
+Line 2917: The property name _ExtentY in utxtRefCntno is invalid.
+Line 2928: The property name MaxLength in utxtRefCntno is invalid.
+Line 2929: The property name Last in utxtRefCntno is invalid.
+Line 2937: The property name _ExtentX in utxtRefPrefix is invalid.
+Line 2938: The property name _ExtentY in utxtRefPrefix is invalid.
+Line 2949: The property name MaxLength in utxtRefPrefix is invalid.

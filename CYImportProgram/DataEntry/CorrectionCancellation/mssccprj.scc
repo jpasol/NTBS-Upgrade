@@ -1,0 +1,8 @@
+[SCC]
+SCC=This is a source code control file
+[prjCYCancelCorrect.vbp]
+SCC_Project_Name ="$/CY IMPORT/FINAL/CANCELLATIONANDCORRECTION", LQDAAAAA
+SCC_Aux_Path =\\Sysdev_nt\VS6\VSS,
+[prjCorrection.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>

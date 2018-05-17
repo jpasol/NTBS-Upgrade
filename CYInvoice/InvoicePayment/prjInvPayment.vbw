@@ -1,0 +1,6 @@
+modInvPayment = 110, 110, 642, 543, 
+frmInvEntry = 101, 82, 782, 714, , 154, 203, 745, 651, C
+FrmInvAdjust = 220, 220, 855, 856, , 0, 0, 591, 448, C
+frmMain = 132, 132, 767, 768, , 22, 29, 613, 477, C
+clsInvPayment = 133, 114, 580, 680, 
+frmListORpayment = 0, 0, 0, 0, C, 44, 58, 635, 506, C

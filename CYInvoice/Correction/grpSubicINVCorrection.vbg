@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=..\..\CYInvoice\Correction\prjTest.vbp
+Project=..\..\CYInvoice\Correction\SubicINVCorrection.vbp

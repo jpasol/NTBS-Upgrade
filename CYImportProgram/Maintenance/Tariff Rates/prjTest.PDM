@@ -1,0 +1,101 @@
+[Root]
+Most Recent Package=Tariff Setup Package 1
+
+
+[Package|Tariff Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\Package
+
+[Package|Tariff Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Tariff Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Tariff Setup Package 1|Files Found]
+
+[Package|Tariff Setup Package 1|Files Released]
+
+[Package|Tariff Setup Package 1|Missing Dependency Information]
+D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\crviewer.dll=
+
+[Package|Tariff Setup Package 1|Out-of-Date Dependency Information]
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Tariff Setup Package 1|Files Added]
+
+[Package|Tariff Setup Package 1|Files Removed]
+
+[Package|Tariff Setup Package 1|Files In Project]
+D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\CYRate.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\CYRatesMaintenance.dll=Yes
+D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\crviewer.dll=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Tariff Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Tariff Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Tariff Setup Package 1|Install Locations]
+D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\CYRate.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\CYRatesMaintenance.dll=$(WinSysPath)
+D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\crviewer.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Tariff Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\CYRate.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Tariff Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Tariff Rates
+
+[Package|Tariff Setup Package 1|IconGroups]
+Group0=Tariff Rates
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Tariff Setup Package 1|Tariff Rates]
+Icon1=CYRate.exe
+Title1=Tariff Rates
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Tariff Setup Package 1|Package]
+PackageFolder=D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\Package
+ProjectFolder=D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates
+ServerSideCab=
+File1=D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\Package\setup.exe
+File2=D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\Package\Setup.Lst
+File3=D:\SUBICNewProgram\CYImportProgram\Maintenance\Tariff Rates\Package\CYRate.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

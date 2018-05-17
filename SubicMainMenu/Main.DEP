@@ -1,0 +1,63 @@
+[Version]
+Version=1.0.0.0
+
+[Main.exe <0009>]
+Dest=$(AppPath)
+Date=6/9/99
+Time=12:07
+Version=1.0.0.0
+CABFilename=Main.CAB
+CABINFFile=Main.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSADO15.DLL
+Uses8=SSubTmr.dll
+Uses9=cNewMenu.dll
+Uses10=crviewer.dll
+Uses11=CCRAllocation.dll
+Uses12=CYMAuditorInquiry.dll
+Uses13=CYGpassTrans.dll
+Uses14=CYMTellerInquiry.dll
+Uses15=CYRatesMaintenance.dll
+Uses16=prjComputationInquiry.dll
+Uses17=prjCYCancelCorrect.dll
+Uses18=prjCYMReport.dll
+Uses19=prjEmptiesOth.dll
+Uses20=prjManifestCont.dll
+Uses21=prjReprint.dll
+Uses22=MSCOMCTL.OCX
+Uses23=MSADODC.OCX
+Uses24=COMCT332.OCX
+Uses25=comdlg32.ocx
+Uses26=Cympr01.rpt
+Uses27=NTBS.ini
+Uses28=NTBSBkg.jpg
+Uses29=MANCYM.dll
+
+[SSubTmr.dll <0009>]
+Dest=$(WinSysPath)
+Date=10/14/98
+Time=19:41
+Version=1.0.0.17
+
+[cNewMenu.dll <0009>]
+Dest=$(WinSysPath)
+Date=2/25/99
+Time=02:02
+Version=1.5.0.9
+
+[crviewer.dll <0009>]
+Dest=$(WinSysPath)
+Date=11/8/98
+Time=16:00
+Version=2.2.4.36
+
+[MANCYM.dll <0009>]
+Dest=$(WinSysPath)
+Date=4/17/99
+Time=17:45
+Version=1.0.0.0

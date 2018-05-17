@@ -1,0 +1,34 @@
+[Version]
+Version=1.0.0.0
+
+[CFMDE03.dll <0009>]
+Dest=$(WinSysPath)
+Date=6/11/99
+Time=09:14
+Version=1.0.0.0
+CABFilename=CFMDE03.CAB
+CABINFFile=CFMDE03.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=olepro32.dll
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSDERUN.DLL
+Uses8=MSADO20.TLB
+Uses9=cADR.dll
+Uses10=CFSIMPGPS.dll
+Uses11=FLRCtrls.ocx
+Uses12=MSFLXGRD.OCX
+
+[MSADO20.TLB <0009>]
+Dest=$(WinSysPath)
+Date=11/20/98
+Time=00:00
+Version=0.0.0.0
+
+[craxdrt.dll <0009>]
+Dest=$(WinSysPath)
+Date=11/8/98
+Time=16:00
+Version=7.0.1.183

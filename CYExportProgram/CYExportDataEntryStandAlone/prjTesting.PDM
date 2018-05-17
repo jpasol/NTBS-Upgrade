@@ -1,0 +1,116 @@
+[Root]
+Most Recent Package=CY Export Standard Package
+
+
+[Package|CY Export Standard Package|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Global IT\2013\Installer\CYExportDataEntrySetup
+
+[Package|CY Export Standard Package|Configure DAO ISAMs]
+Applicable=No
+
+[Package|CY Export Standard Package|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|CY Export Standard Package|Files Found]
+craxdrt.dll=D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\craxdrt.dll
+MSDERUN.DLL=D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\MSDERUN.DLL
+
+[Package|CY Export Standard Package|Files Released]
+
+[Package|CY Export Standard Package|Missing Dependency Information]
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\MSDERUN.DLL=
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\craxdrt.dll=
+C:\WINDOWS\system32\crviewer.dll=
+
+[Package|CY Export Standard Package|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+
+[Package|CY Export Standard Package|Files Added]
+
+[Package|CY Export Standard Package|Files Removed]
+
+[Package|CY Export Standard Package|Files In Project]
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\prjTesting.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\CCRDE06.dll=Yes
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\crviewer.dll=Yes
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\craxdrt.dll=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\CRUFLCfs.dll=Yes
+C:\WINDOWS\system32\u25rt.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|CY Export Standard Package|Configure Registry Files]
+Applicable=No
+
+[Package|CY Export Standard Package|Configure Remote Servers]
+Applicable=No
+
+[Package|CY Export Standard Package|Install Locations]
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\prjTesting.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\CCRDE06.dll=$(WinSysPath)
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\MSDERUN.DLL=$(WinSysPath)
+C:\WINDOWS\system32\crviewer.dll=$(WinSysPath)
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CRUFLCfs.dll=$(WinSysPath)
+C:\WINDOWS\system32\u25rt.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|CY Export Standard Package|Configure Shared Files]
+Applicable=Yes
+D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone\prjTesting.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|CY Export Standard Package|Distribution]
+Type=single
+Size=
+Title=CYExport
+
+[Package|CY Export Standard Package|IconGroups]
+Group0=CYExport
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|CY Export Standard Package|CYExport]
+Icon1=prjTesting.exe
+Title1=CYExport
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|CY Export Standard Package|Package]
+PackageFolder=D:\Global IT\2013\Installer\CYExportDataEntrySetup
+ProjectFolder=D:\Global IT\2013\SBITC Billing Source Code 06292012\CYExportDataEntryStandAlone
+ServerSideCab=
+File1=D:\Global IT\2013\Installer\CYExportDataEntrySetup\setup.exe
+File2=D:\Global IT\2013\Installer\CYExportDataEntrySetup\Setup.Lst
+File3=D:\Global IT\2013\Installer\CYExportDataEntrySetup\prjTesting.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

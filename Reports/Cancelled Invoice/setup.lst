@@ -1,0 +1,25 @@
+[Params]
+	WndTitle   = Crystal Reports Distribution Setup
+	WndMess    = Initializing Setup...
+	TmpDirSize = 1
+	TmpDirName = ~crwinst.t
+	CmdLine    = crwstp32.exe /d %s %s
+	DrvModName = CRWSTP32
+
+[Files]
+	mscomstf.dl_ = mscomstf.dll
+	msdetstf.dl_ = msdetstf.dll
+	msinsstf.dl_ = msinsstf.dll
+	msshlstf.dl_ = msshlstf.dll
+	msuilstf.dl_ = msuilstf.dll
+	crwstp32.ex_ = crwstp32.exe
+	msvcrt.cr_   = msvcrt.dll
+	stpres32.dl_ = setupres.dll
+	crexpd32.dl_ = crexpd32.dll
+	rptfiles.lyt = rptfiles.lyt
+	setup.inf    = setup.inf
+	setup.exe    = setup.exe
+	setup.lst    = setup.lst
+	setup.ini    = setup.ini
+	corelist.ini = corelist.ini
+

@@ -1,0 +1,21 @@
+[Version]
+Version=1.0.0.0
+
+[SubicINVDE01.dll <0009>]
+Dest=$(WinSysPath)
+Date=8/9/00
+Time=16:21
+Version=1.0.0.0
+CABFilename=SubicINVDE01.CAB
+CABINFFile=SubicINVDE01.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=msado20.tlb
+Uses8=crystl32.ocx
+Uses9=MSFLXGRD.OCX
+Uses10=SubicInvoice.rpt
+Uses11=SubicINVSA.rpt

@@ -1,0 +1,18 @@
+[Version]
+Version=1.0.0.0
+
+[CYSReports.dll <0009>]
+Dest=$(WinSysPath)
+Date=1999-06-19
+Time=16:39
+Version=1.0.0.0
+CABFilename=CYSReports.CAB
+CABINFFile=CYSReports.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=crviewer.dll
+Uses8=msmask32.ocx

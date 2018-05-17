@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=SubicCYSCCR.vbp
+Project=CYSpecialReceipt\CCRPr03.vbp
+StartupProject=Caller.vbp

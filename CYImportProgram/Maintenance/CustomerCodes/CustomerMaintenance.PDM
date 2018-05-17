@@ -1,0 +1,520 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|CustomerMaintenance Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Billing\CustMaintenance\Package
+
+[Package|CustomerMaintenance Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|CustomerMaintenance Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|CustomerMaintenance Setup|Files Found]
+
+[Package|CustomerMaintenance Setup|Files Released]
+
+[Package|CustomerMaintenance Setup|Missing Dependency Information]
+C:\WINNT\system32\MSADO20.TLB=
+
+[Package|CustomerMaintenance Setup|Out-of-Date Dependency Information]
+
+[Package|CustomerMaintenance Setup|Files Added]
+
+[Package|CustomerMaintenance Setup|Files Removed]
+
+[Package|CustomerMaintenance Setup|Files In Project]
+C:\Billing\CustMaintenance\CustomerMaintenance.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\Olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\MSADO20.TLB=Yes
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|CustomerMaintenance Setup|Configure Registry Files]
+Applicable=No
+
+[Package|CustomerMaintenance Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|CustomerMaintenance Setup|Install Locations]
+C:\Billing\CustMaintenance\CustomerMaintenance.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSADO20.TLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|CustomerMaintenance Setup|Configure Shared Files]
+Applicable=Yes
+C:\Billing\CustMaintenance\CustomerMaintenance.exe=Yes
+
+[Package|CustomerMaintenance Setup|Distribution]
+Type=single
+Size=
+Title=CustomerMaintenance
+
+[Package|CustomerMaintenance Setup|IconGroups]
+Group0=CustomerMaintenance
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|CustomerMaintenance Setup|CustomerMaintenance]
+Icon1=CustomerMaintenance.EXE
+Title1=CustomerMaintenance
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|CustomerMaintenance Setup|Package]
+PackageFolder=C:\Billing\CustMaintenance\Package
+ProjectFolder=C:\Billing\CustMaintenance
+ServerSideCab=
+File1=C:\Billing\CustMaintenance\Package\setup.exe
+File2=C:\Billing\CustMaintenance\Package\Setup.Lst
+File3=C:\Billing\CustMaintenance\Package\CustomerMaintenance.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Customer File Maintenance Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Billing1\CustMaintenance\Package
+
+[Package|Customer File Maintenance Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Customer File Maintenance Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Customer File Maintenance Setup|Files Found]
+
+[Package|Customer File Maintenance Setup|Files Released]
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+SSCSDK32.DLL=
+
+[Package|Customer File Maintenance Setup|Missing Dependency Information]
+C:\WINNT\system32\MSADO20.TLB=
+D:\Program Files\Seagate Software\Crystal Reports\craxdui.dll=
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+D:\Program Files\Seagate Software\Crystal Reports\craxddt.dll=
+C:\Program Files\Seagate Software\Shared\cdo32.dll=
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=
+
+[Package|Customer File Maintenance Setup|Out-of-Date Dependency Information]
+
+[Package|Customer File Maintenance Setup|Files Added]
+
+[Package|Customer File Maintenance Setup|Files Removed]
+
+[Package|Customer File Maintenance Setup|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\Olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Billing1\CustMaintenance\CustomerMaintenance.exe=Yes
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+D:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\Program Files\Seagate Software\Shared\cdo32.dll=Yes
+D:\Program Files\Seagate Software\Crystal Reports\craxddt.dll=Yes
+C:\WINNT\system32\cpeaut32.dll=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\Msvcrt.dll=Yes
+C:\WINNT\system32\MFC42.DLL=Yes
+C:\WINNT\Crystal\crxlat32.dll=Yes
+C:\WINNT\Crystal\p2bbde.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\Crystal\p2bxbse.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\Crystal\p2sifmx.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\Crystal\p2sora7.dll=Yes
+C:\WINNT\Crystal\p2ssql.dll=Yes
+C:\WINNT\Crystal\p2ssyb10.dll=Yes
+C:\WINNT\Crystal\p2soledb.dll=Yes
+C:\WINNT\Crystal\u2ddisk.dll=Yes
+C:\WINNT\Crystal\u2dmapi.dll=Yes
+C:\WINNT\Crystal\u2dnotes.dll=Yes
+C:\WINNT\Crystal\u2dpost.dll=Yes
+C:\WINNT\Crystal\u2dvim.dll=Yes
+C:\WINNT\Crystal\u2dapp.dll=Yes
+C:\WINNT\Crystal\u2fcr.dll=Yes
+C:\WINNT\Crystal\u2fhtml.dll=Yes
+C:\WINNT\Crystal\u2fodbc.dll=Yes
+C:\WINNT\Crystal\u2frec.dll=Yes
+C:\WINNT\Crystal\u2frtf.dll=Yes
+C:\WINNT\Crystal\u2fsepv.dll=Yes
+C:\WINNT\Crystal\u2ftext.dll=Yes
+C:\WINNT\Crystal\u2fwks.dll=Yes
+C:\WINNT\Crystal\u2fwordw.dll=Yes
+C:\WINNT\Crystal\u2fxls.dll=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\WINNT\Crystal\u2l2000.dll=Yes
+C:\WINNT\Crystal\u2lbar.dll=Yes
+C:\WINNT\Crystal\u2lcom.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\WINNT\Crystal\u252000.dll=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=Yes
+D:\Program Files\Seagate Software\Crystal Reports\craxdui.dll=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+
+[Package|Customer File Maintenance Setup|Configure Registry Files]
+Applicable=No
+
+[Package|Customer File Maintenance Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|Customer File Maintenance Setup|Install Locations]
+C:\Billing\CustMaintenance\CustomerMaintenance.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSADO20.TLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Billing1\CustMaintenance\CustomerMaintenance.exe=$(AppPath)
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Shared\cdo32.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxddt.dll=$(WinSysPath)
+C:\WINNT\system32\cpeaut32.dll=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\Msvcrt.dll=$(WinSysPath)
+C:\WINNT\system32\MFC42.DLL=$(WinSysPath)
+C:\WINNT\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(AppPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(AppPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxdui.dll=$(WinSysPath)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+
+[Package|Customer File Maintenance Setup|Configure Shared Files]
+Applicable=Yes
+C:\Billing\CustMaintenance\CustomerMaintenance.exe=Yes
+D:\Billing1\CustMaintenance\CustomerMaintenance.exe=No
+C:\WINNT\system32\implode.dll=No
+C:\WINNT\Crystal\u25dts.dll=No
+C:\WINNT\Crystal\u2lbar.dll=No
+C:\WINNT\Crystal\u2ldts.dll=No
+C:\WINNT\Crystal\u2lsamp1.dll=No
+
+[Package|Customer File Maintenance Setup|Distribution]
+Type=single
+Size=
+Title=Customer File Maintenance
+
+[Package|Customer File Maintenance Setup|IconGroups]
+Group0=NT Billing System
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Customer File Maintenance Setup|NT Billing System]
+Icon1=CustomerMaintenance.exe
+Title1=Customer File Maintenance
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|Customer File Maintenance Setup|Package]
+PackageFolder=d:\Billing1\CustMaintenance\Package
+ProjectFolder=D:\Billing1\CustMaintenance
+ServerSideCab=
+File1=d:\Billing1\CustMaintenance\Package\setup.exe
+File2=d:\Billing1\CustMaintenance\Package\Setup.Lst
+File3=d:\Billing1\CustMaintenance\Package\CustomerMaintenance.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=d:\NTBS\CustomerMaintenance
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+u2lbar.dll=D:\Billing\CYInvoice\Main Menu\Support\u2lbar.dll
+
+[Package|Dep File 1|Files Released]
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+SSCSDK32.DLL=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINNT\system32\MSADO20.TLB=
+D:\Program Files\Seagate Software\Crystal Reports\craxdui.dll=
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+D:\Program Files\Seagate Software\Crystal Reports\craxddt.dll=
+C:\Program Files\Seagate Software\Shared\cdo32.dll=
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\crpe32.dll=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\Msvcrt.dll=Yes
+C:\WINNT\system32\MFC42.DLL=Yes
+C:\WINNT\Crystal\crxlat32.dll=Yes
+C:\WINNT\Crystal\p2bbde.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\Crystal\p2bxbse.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\Crystal\p2sifmx.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\Crystal\p2sora7.dll=Yes
+C:\WINNT\Crystal\p2ssql.dll=Yes
+C:\WINNT\Crystal\p2ssyb10.dll=Yes
+C:\WINNT\Crystal\p2soledb.dll=Yes
+C:\WINNT\Crystal\u2ddisk.dll=Yes
+C:\WINNT\Crystal\u2dmapi.dll=Yes
+C:\WINNT\Crystal\u2dnotes.dll=Yes
+C:\WINNT\Crystal\u2dpost.dll=Yes
+C:\WINNT\Crystal\u2dvim.dll=Yes
+C:\WINNT\Crystal\u2dapp.dll=Yes
+C:\WINNT\Crystal\u2fcr.dll=Yes
+C:\WINNT\Crystal\u2fhtml.dll=Yes
+C:\WINNT\Crystal\u2fodbc.dll=Yes
+C:\WINNT\Crystal\u2frec.dll=Yes
+C:\WINNT\Crystal\u2frtf.dll=Yes
+C:\WINNT\Crystal\u2fsepv.dll=Yes
+C:\WINNT\Crystal\u2ftext.dll=Yes
+C:\WINNT\Crystal\u2fwks.dll=Yes
+C:\WINNT\Crystal\u2fwordw.dll=Yes
+C:\WINNT\Crystal\u2fxls.dll=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\WINNT\Crystal\u2l2000.dll=Yes
+C:\WINNT\Crystal\u2lcom.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\WINNT\Crystal\u252000.dll=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+D:\NTBS\CustomerMaintenance\CustomerMaintenance.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\Crystal\U25store.dll=Yes
+D:\Billing\CYInvoice\Main Menu\Support\u2lbar.dll=Yes
+C:\WINNT\system32\SSCSDK32.DLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+C:\Billing\CustMaintenance\CustomerMaintenance.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSADO20.TLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Billing1\CustMaintenance\CustomerMaintenance.exe=$(AppPath)
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Shared\cdo32.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxddt.dll=$(WinSysPath)
+C:\WINNT\system32\cpeaut32.dll=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\Msvcrt.dll=$(WinSysPath)
+C:\WINNT\system32\MFC42.DLL=$(WinSysPath)
+C:\WINNT\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(AppPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(AppPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxdui.dll=$(WinSysPath)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+D:\Billing1\CustMaintenance\CustomerMaintenance.dll=$(AppPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+D:\NTBS\CustomerMaintenance\CustomerMaintenance.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\Crystal\U25store.dll=$(WinSysPath)
+D:\Billing\CYInvoice\Main Menu\Support\u2lbar.dll=$(AppPath)
+C:\WINNT\system32\SSCSDK32.DLL=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+C:\Billing\CustMaintenance\CustomerMaintenance.exe=Yes
+D:\Billing1\CustMaintenance\CustomerMaintenance.exe=No
+C:\WINNT\system32\implode.dll=No
+C:\WINNT\Crystal\u25dts.dll=No
+C:\WINNT\Crystal\u2lbar.dll=No
+C:\WINNT\Crystal\u2ldts.dll=No
+C:\WINNT\Crystal\u2lsamp1.dll=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=Customer File Maintenance
+
+[Package|Dep File 1|IconGroups]
+Group0=NT Billing System
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Dep File 1|NT Billing System]
+Icon1=CustomerMaintenance.exe
+Title1=Customer File Maintenance
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|Dep File 1|DepFile]
+DepCabFile=CustomerMaintenance.CAB
+DepCabRun=CustomerMaintenance.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=d:\NTBS\CustomerMaintenance
+ProjectFolder=D:\NTBS\CustomerMaintenance
+ServerSideCab=
+File1=d:\NTBS\CustomerMaintenance\CustomerMaintenance.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

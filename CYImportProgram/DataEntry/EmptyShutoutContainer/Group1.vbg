@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=prjEmptyCont.vbp
+StartupProject=..\..\..\..\..\SBITCPrograms\NTBS\Import\DataEntry\EmptyShutoutContainer\prjTestEmptyCont.vbp

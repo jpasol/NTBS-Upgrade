@@ -1,0 +1,26 @@
+[Version]
+Version=1.0.0.0
+
+[CYRatesMaintenance.dll <0009>]
+Dest=$(AppPath)
+Date=6/7/99
+Time=14:41
+Version=1.0.0.0
+CABFilename=CYRatesMaintenance.CAB
+CABINFFile=CYRatesMaintenance.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=Olepro32.dll
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=crviewer.dll
+Uses8=MSADO20.TLB
+Uses9=MSADOR15.DLL
+Uses10=MSFLXGRD.OCX
+
+[MSADO20.TLB <0009>]
+Dest=$(WinSysPath)
+Date=11/20/98
+Time=00:00
+Version=0.0.0.0

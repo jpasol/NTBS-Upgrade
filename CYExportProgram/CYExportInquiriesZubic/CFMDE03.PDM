@@ -1,0 +1,263 @@
+[Root]
+Most Recent Package=Dep File 3
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+co404x.ocx=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINNT\system32\craxdrt.dll=
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.dll=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado15.dll=Yes
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=Yes
+D:\VB Programs\ADRModule\cADR.dll=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINNT\system32\craxdrt.dll=Yes
+D:\VB Programs\CFS Import CCR DLL\CFSIMPGPS.dll=Yes
+D:\VB Programs\Crystal Report DLL\CRUFLCfs.dll=Yes
+D:\VB Programs\FLR Control\FLRCtrls.ocx=Yes
+C:\WINNT\system32\MSSTKPRP.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.dll=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=$(WinSysPath)
+D:\VB Programs\ADRModule\cADR.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINNT\system32\craxdrt.dll=$(WinSysPath)
+D:\VB Programs\CFS Import CCR DLL\CFSIMPGPS.dll=$(AppPath)
+D:\VB Programs\Crystal Report DLL\CRUFLCfs.dll=$(AppPath)
+D:\VB Programs\FLR Control\FLRCtrls.ocx=$(AppPath)
+C:\WINNT\system32\MSSTKPRP.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=CFMDE03.CAB
+DepCabRun=CFMDE03.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+ProjectFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+ServerSideCab=
+File1=D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+
+[Package|Dep File 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 2|Files Found]
+
+[Package|Dep File 2|Files Released]
+co404x.ocx=
+
+[Package|Dep File 2|Missing Dependency Information]
+C:\WINNT\system32\craxdrt.dll=
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=
+
+[Package|Dep File 2|Out-of-Date Dependency Information]
+
+[Package|Dep File 2|Files Added]
+
+[Package|Dep File 2|Files Removed]
+
+[Package|Dep File 2|Files In Project]
+D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.dll=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado15.dll=Yes
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=Yes
+D:\VB Programs\ADRModule\cADR.dll=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINNT\system32\craxdrt.dll=Yes
+D:\VB Programs\CFS Import CCR DLL\CFSIMPGPS.dll=Yes
+D:\VB Programs\Crystal Report DLL\CRUFLCfs.dll=Yes
+D:\VB Programs\FLR Control\FLRCtrls.ocx=Yes
+C:\WINNT\system32\MSSTKPRP.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+
+[Package|Dep File 2|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 2|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 2|Install Locations]
+D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.dll=$(WinSysPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=$(WinSysPath)
+D:\VB Programs\ADRModule\cADR.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINNT\system32\craxdrt.dll=$(WinSysPath)
+D:\VB Programs\CFS Import CCR DLL\CFSIMPGPS.dll=$(AppPath)
+D:\VB Programs\Crystal Report DLL\CRUFLCfs.dll=$(AppPath)
+D:\VB Programs\FLR Control\FLRCtrls.ocx=$(AppPath)
+C:\WINNT\system32\MSSTKPRP.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+
+[Package|Dep File 2|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 2|DepFile]
+DepCabFile=CFMDE03.CAB
+DepCabRun=CFMDE03.INF
+
+[Package|Dep File 2|Package]
+PackageFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+ProjectFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+ServerSideCab=
+File1=D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 3|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+
+[Package|Dep File 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 3|Files Found]
+
+[Package|Dep File 3|Files Released]
+co404x.ocx=
+
+[Package|Dep File 3|Missing Dependency Information]
+C:\WINNT\system32\craxdrt.dll=
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=
+
+[Package|Dep File 3|Out-of-Date Dependency Information]
+
+[Package|Dep File 3|Files Added]
+
+[Package|Dep File 3|Files Removed]
+
+[Package|Dep File 3|Files In Project]
+D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.dll=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado15.dll=Yes
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=Yes
+D:\VB Programs\ADRModule\cADR.dll=Yes
+C:\WINNT\system32\craxdrt.dll=Yes
+D:\VB Programs\CFS Import CCR DLL\CFSIMPGPS.dll=Yes
+D:\VB Programs\FLR Control\FLRCtrls.ocx=Yes
+C:\WINNT\system32\MSSTKPRP.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+
+[Package|Dep File 3|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 3|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 3|Install Locations]
+D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.dll=$(WinSysPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=$(WinSysPath)
+D:\VB Programs\ADRModule\cADR.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\WINNT\system32\craxdrt.dll=$(WinSysPath)
+D:\VB Programs\CFS Import CCR DLL\CFSIMPGPS.dll=$(AppPath)
+D:\VB Programs\FLR Control\FLRCtrls.ocx=$(AppPath)
+C:\WINNT\system32\MSSTKPRP.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+
+[Package|Dep File 3|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 3|DepFile]
+DepCabFile=CFMDE03.CAB
+DepCabRun=CFMDE03.INF
+
+[Package|Dep File 3|Package]
+PackageFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+ProjectFolder=D:\VB Programs\CFS Import Gatepass Cancellation
+ServerSideCab=
+File1=D:\VB Programs\CFS Import Gatepass Cancellation\CFMDE03.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

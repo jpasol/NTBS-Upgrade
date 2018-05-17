@@ -1,0 +1,13 @@
+SCC = This is a Source Code Control file
+
+[CCRAllocation.vbp]
+SCC_Aux_Path =\\ssafesvr\vss,
+SCC_Project_Name ="$/PHILIPPINES_PORT/SBITC_PORT/BILLING/SOURCECODE/IMPORT/TellerGatepassAllocation", MJAHAAAA
+
+[Allocation.vbp]
+SCC_Aux_Path = "\\ssafesvr\vss"
+SCC_Project_Name = "$/PHILIPPINES_PORT/SBITC_PORT/BILLING/SOURCECODE/IMPORT/TellerGatepassAllocation", MJAHAAAA
+
+[prjTest.vbp]
+SCC_Aux_Path =\\ssafesvr\vss,
+SCC_Project_Name ="$/PHILIPPINES_PORT/SBITC_PORT/BILLING/SOURCECODE/IMPORT/TellerGatepassAllocation", MJAHAAAA

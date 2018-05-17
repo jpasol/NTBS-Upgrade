@@ -1,0 +1,39 @@
+[Version]
+Version=1.0.0.0
+
+[cCCRRpt.dll <0009>]
+Dest=$(WinSysPath)
+Date=7/5/00
+Time=11:14
+Version=1.0.0.0
+CABFilename=cCCRRpt.CAB
+CABINFFile=cCCRRpt.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=crviewer.dll
+Uses8=MSDERUN.DLL
+Uses9=craxddt.dll
+Uses10=craxdrt.dll
+Uses11=MSCOMCTL.OCX
+
+[crviewer.dll <0009>]
+Dest=$(WinSysPath)
+Date=11/9/99
+Time=09:49
+Version=7.0.100.52
+
+[craxddt.dll <0009>]
+Dest=$(WinSysPath)
+Date=6/22/99
+Time=00:00
+Version=7.0.100.185
+
+[craxdrt.dll <0009>]
+Dest=$(WinSysPath)
+Date=6/21/99
+Time=17:00
+Version=7.0.100.186

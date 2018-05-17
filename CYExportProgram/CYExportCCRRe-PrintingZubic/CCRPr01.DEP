@@ -1,0 +1,36 @@
+[Version]
+Version=1.0.0.0
+
+[CCRPr01.dll <0009>]
+Dest=$(WinSysPath)
+Date=7/28/99
+Time=14:00
+Version=1.0.0.0
+CABFilename=CCRPr01.CAB
+CABINFFile=CCRPr01.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSDERUN.DLL
+Uses8=MSADO20.TLB
+Uses9=crviewer.dll
+Uses10=craxddt.dll
+Uses11=MSCOMCTL.OCX
+Uses12=MSFLXGRD.OCX
+Uses13=COMCT332.OCX
+Uses14=TABCTL32.OCX
+
+[MSADO20.TLB <0009>]
+Dest=$(WinSysPath)
+Date=11/20/98
+Time=00:00
+Version=0.0.0.0
+
+[craxddt.dll <0009>]
+Dest=$(WinSysPath)
+Date=11/8/98
+Time=16:00
+Version=7.0.1.183

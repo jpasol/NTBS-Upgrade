@@ -1,0 +1,362 @@
+[Root]
+Most Recent Package=Subic NT Billing System
+
+
+[Package|Subic NT Billing System|CY Import Main Setup]
+Icon1=Main.exe
+Title1=CY Import Main Setup
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Subic NT Billing System|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\NTBS\SubicMainMenu\Package
+
+[Package|Subic NT Billing System|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Subic NT Billing System|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Subic NT Billing System|Files Found]
+NTBS.ini=D:\NTBS\SubicMainMenu\NTBS.ini
+u2lbar.dll=D:\Billing\CYInvoice\Main Menu\Support\u2lbar.dll
+MSDERUN.DLL=C:\Program Files\Common Files\designer\MSDERUN.DLL
+
+[Package|Subic NT Billing System|Files Released]
+MSADO20.TLB=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+co404x.ocx=
+
+[Package|Subic NT Billing System|Missing Dependency Information]
+C:\Final\Teller Inquiry\CYMTellerInquiry.dll=
+C:\Final\Auditor Inquiry\CYMAuditorInquiry.dll=
+C:\Final\Reprint\prjReprint.dll=
+C:\Final\ManifestContainers\prjManifestCont.dll=
+C:\Final\EmptiesAndOthers\prjEmptiesOth.dll=
+C:\Final\Reports\prjCYMReport.dll=
+C:\Final\CancellationAndCorrection\prjCYCancelCorrect.dll=
+C:\Final\ComputationInquiry\prjComputationInquiry.dll=
+C:\WINNT\system32\crviewer.dll=
+C:\WINNT\system32\cNewMenu.dll=
+C:\WINNT\system32\SSubTmr.dll=
+C:\WINNT\system32\MANCYM.dll=
+C:\WINNT\system32\cCTCS.dll=
+C:\WINNT\system32\zcCCRRpt.dll=
+C:\WINNT\system32\zCCRCYREPRT.dll=
+C:\WINNT\system\CYXINQ02.dll=
+C:\WINNT\system32\CCRde08.dll=
+C:\WINNT\system32\CCRDE06.dll=
+C:\WINNT\system32\prjReprint.dll=
+D:\NTBS\SubicMainMenu\cADR.dll=
+C:\Program Files\Common Files\System\ADO\msado21.tlb=
+D:\NTBS\CY Special Services\SubicCYSCCR.dll=
+
+[Package|Subic NT Billing System|Out-of-Date Dependency Information]
+C:\WINNT\system32\COMCT332.OCX=
+C:\WINNT\system32\crpe32.dll=
+C:\WINNT\system32\msado20.tlb=
+C:\WINNT\system32\craxdrt.dll=
+
+[Package|Subic NT Billing System|Files Added]
+cympr01.rpt=
+ntbs.ini=
+ntbsbkg.jpg=
+c:\winnt\system32\cadr.dll=
+c:\winnt\system32\mancym.dll=
+c:\winnt\system32\cctcs.dll=
+
+[Package|Subic NT Billing System|Files Removed]
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Subic NT Billing System|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\SSubTmr.dll=Yes
+C:\WINNT\system32\cNewMenu.dll=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\msmask32.ocx=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\MSVCRT.DLL=Yes
+C:\WINNT\system32\mfc42.dll=Yes
+C:\WINNT\Crystal\CRXLAT32.DLL=Yes
+C:\WINNT\Crystal\p2bbde.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\Crystal\p2bxbse.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\Crystal\p2sifmx.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\Crystal\p2sora7.dll=Yes
+C:\WINNT\Crystal\p2ssql.dll=Yes
+C:\WINNT\Crystal\p2ssyb10.dll=Yes
+C:\WINNT\Crystal\p2soledb.dll=Yes
+C:\WINNT\Crystal\U2DDISK.DLL=Yes
+C:\WINNT\Crystal\U2DMAPI.DLL=Yes
+C:\WINNT\Crystal\u2dnotes.dll=Yes
+C:\WINNT\Crystal\u2dpost.dll=Yes
+C:\WINNT\Crystal\u2dvim.dll=Yes
+C:\WINNT\Crystal\u2dapp.dll=Yes
+C:\WINNT\Crystal\U2FCR.DLL=Yes
+C:\WINNT\Crystal\U2FHTML.DLL=Yes
+C:\WINNT\Crystal\u2fodbc.dll=Yes
+C:\WINNT\Crystal\U2FREC.DLL=Yes
+C:\WINNT\Crystal\U2FRTF.DLL=Yes
+C:\WINNT\Crystal\U2FSEPV.DLL=Yes
+C:\WINNT\Crystal\U2FTEXT.DLL=Yes
+C:\WINNT\Crystal\U2FWKS.DLL=Yes
+C:\WINNT\Crystal\U2FWORDW.DLL=Yes
+C:\WINNT\Crystal\U2FXLS.DLL=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\WINNT\Crystal\u2l2000.dll=Yes
+C:\WINNT\Crystal\u2lcom.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\WINNT\Crystal\u252000.dll=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\COMCT332.OCX=Yes
+C:\WINNT\system32\comdlg32.ocx=Yes
+D:\NTBS\SubicMainMenu\Main.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Common Files\System\ADO\msado21.tlb=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+D:\NTBS\Tariff Rates\CYRatesMaintenance.dll=Yes
+D:\NTBS\Allocation\CCRAllocation.dll=Yes
+D:\NTBS\CustomerMaintenance\CustomerMaintenance.dll=Yes
+C:\WINNT\Crystal\U25store.dll=Yes
+D:\Billing\CYInvoice\Main Menu\Support\u2lbar.dll=Yes
+D:\Billing\CYInvoice\Correction\SubicINVCorrection.dll=Yes
+D:\Billing\CYInvoice\Issuance\SubicINVDE01.dll=Yes
+D:\Billing\CYInvoice\Issuance\SubicInvoice.rpt=Yes
+D:\Billing\CYInvoice\Issuance\SubicINVSA.rpt=Yes
+D:\Billing\CYInvoice\Reports\SubicINVReports.dll=Yes
+D:\Billing\CYInvoice\Reprinting\SubicINVReprint.dll=Yes
+D:\NTBS\ManifestContainers\prjManifestCont.dll=Yes
+D:\NTBS\SubicMainMenu\cADR.dll=Yes
+D:\NTBS\SubicMainMenu\cCTCS.dll=Yes
+D:\NTBS\CYMTellerInquiry\CYMTellerInquiry.dll=Yes
+C:\WINNT\system32\prjReprint.dll=Yes
+C:\WINNT\system\CYXINQ02.dll=Yes
+C:\WINNT\system32\zcCCRRpt.dll=Yes
+D:\NTBS\SubicMainMenu\Cympr01.rpt=Yes
+D:\NTBS\SubicMainMenu\NTBS.ini=Yes
+D:\NTBS\SubicMainMenu\NTBSBkg.jpg=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+D:\NTBS\SubicExportProg\CYExportCCRRe-PrintingZubic\zCCRCYREPRT.dll=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+D:\NTBS\Reports\prjCYMReport.dll=Yes
+C:\WINNT\system32\craxdrt.dll=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportDataEntryStandAlone\CCRDE06.dll=Yes
+C:\WINNT\system32\CRUFLCfs.dll=Yes
+C:\WINNT\Crystal\u25rt.dll=Yes
+D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportCorrectionStandAlone\CCRde08.dll=Yes
+C:\WINNT\system32\MpUserControls.ocx=Yes
+D:\NTBS\CY Special Services\SubicCYSCCR.dll=Yes
+C:\Program Files\Common Files\System\ADO\msado15.dll=Yes
+
+[Package|Subic NT Billing System|Configure Registry Files]
+Applicable=No
+
+[Package|Subic NT Billing System|Configure Remote Servers]
+Applicable=No
+
+[Package|Subic NT Billing System|Install Locations]
+C:\Final\Main.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\SSubTmr.dll=$(WinSysPath)
+C:\WINNT\system32\cNewMenu.dll=$(WinSysPath)
+C:\Final\Allocation\CCRAllocation.dll=$(AppPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Final\Container Inquiry\CYGpassTrans.dll=$(AppPath)
+C:\WINNT\system32\msmask32.ocx=$(WinSysPath)
+C:\WINNT\system32\crviewer.dll=$(WinSysPath)
+C:\Final\Rates\CYRatesMaintenance.dll=$(AppPath)
+C:\Final\ComputationInquiry\prjComputationInquiry.dll=$(WinSysPath)
+C:\Final\CancellationAndCorrection\prjCYCancelCorrect.dll=$(WinSysPath)
+C:\Final\Reports\prjCYMReport.dll=$(WinSysPath)
+C:\Final\EmptiesAndOthers\prjEmptiesOth.dll=$(WinSysPath)
+C:\Final\ManifestContainers\prjManifestCont.dll=$(WinSysPath)
+C:\Final\Reprint\prjReprint.dll=$(WinSysPath)
+C:\Final\Auditor Inquiry\CYMAuditorInquiry.dll=$(WinSysPath)
+C:\Final\Teller Inquiry\CYMTellerInquiry.dll=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Final\ManifestContainers\Cympr01.rpt=$(AppPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+C:\WINNT\system32\MSVCRT.DLL=$(WinSysPath)
+C:\WINNT\system32\mfc42.dll=$(WinSysPath)
+C:\WINNT\Crystal\CRXLAT32.DLL=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2DDISK.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2DMAPI.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FCR.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FHTML.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FREC.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FRTF.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FSEPV.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FTEXT.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FWKS.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FWORDW.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FXLS.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(AppPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(AppPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\Final\NTBS.ini=$(AppPath)
+C:\Final\NTBSBkg.jpg=$(AppPath)
+C:\WINNT\system32\cADR.dll=$(WinSysPath)
+C:\WINNT\system32\MANCYM.dll=$(WinSysPath)
+C:\WINNT\system32\cCTCS.dll=$(WinSysPath)
+D:\NTBS\SubicMainMenu\Main.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ADO\msado21.tlb=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+D:\NTBS\Tariff Rates\CYRatesMaintenance.dll=$(WinSysPath)
+C:\WINNT\system32\msado20.tlb=$(WinSysPath)
+D:\NTBS\Allocation\CCRAllocation.dll=$(WinSysPath)
+D:\NTBS\CustomerMaintenance\CustomerMaintenance.dll=$(WinSysPath)
+C:\WINNT\Crystal\U25store.dll=$(WinSysPath)
+D:\Billing\CYInvoice\Main Menu\Support\u2lbar.dll=$(AppPath)
+C:\WINNT\system32\SSCSDK32.DLL=$(WinSysPath)
+D:\Billing\CYInvoice\Correction\SubicINVCorrection.dll=$(WinSysPath)
+D:\Billing\CYInvoice\Issuance\SubicINVDE01.dll=$(WinSysPath)
+D:\Billing\CYInvoice\Issuance\SubicInvoice.rpt=$(WinSysPath)
+D:\Billing\CYInvoice\Issuance\SubicINVSA.rpt=$(WinSysPath)
+D:\Billing\CYInvoice\Reports\SubicINVReports.dll=$(WinSysPath)
+D:\Billing\CYInvoice\Reprinting\SubicINVReprint.dll=$(WinSysPath)
+D:\NTBS\ManifestContainers\prjManifestCont.dll=$(WinSysPath)
+D:\NTBS\SubicMainMenu\cADR.dll=$(WinSysPath)
+D:\NTBS\SubicMainMenu\cCTCS.dll=$(AppPath)
+D:\NTBS\CYMTellerInquiry\CYMTellerInquiry.dll=$(WinSysPath)
+C:\WINNT\system32\prjReprint.dll=$(WinSysPath)
+C:\WINNT\system32\CCRDE06.dll=$(WinSysPath)
+C:\WINNT\system32\CCRde08.dll=$(WinSysPath)
+C:\WINNT\system\CYXINQ02.dll=$(WinSysPath)
+C:\WINNT\system32\zCCRCYREPRT.dll=$(WinSysPath)
+C:\WINNT\system32\zcCCRRpt.dll=$(WinSysPath)
+D:\NTBS\SubicMainMenu\Cympr01.rpt=$(WinSysPath)
+D:\NTBS\SubicMainMenu\NTBS.ini=$(AppPath)
+D:\NTBS\SubicMainMenu\NTBSBkg.jpg=$(AppPath)
+D:\NTBS\SubicExportProg\CYExportCCRRe-PrintingZubic\zCCRCYREPRT.dll=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+D:\NTBS\Reports\prjCYMReport.dll=$(AppPath)
+C:\WINNT\system32\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportDataEntryStandAlone\CCRDE06.dll=$(WinSysPath)
+C:\WINNT\system32\CRUFLCfs.dll=$(WinSysPath)
+C:\WINNT\Crystal\u25rt.dll=$(WinSysPath)
+D:\NTBS\SubicExportProg\CYExportStandAlone\CYExportCorrectionStandAlone\CCRde08.dll=$(WinSysPath)
+C:\WINNT\system32\MpUserControls.ocx=$(WinSysPath)
+D:\NTBS\CY Special Services\SubicCYSCCR.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ADO\msado15.dll=$(CommonFilesSys)\ADO
+
+[Package|Subic NT Billing System|Configure Shared Files]
+Applicable=Yes
+C:\Final\Main.exe=Yes
+C:\Final\Allocation\CCRAllocation.dll=Yes
+C:\Final\Container Inquiry\CYGpassTrans.dll=Yes
+C:\Final\Rates\CYRatesMaintenance.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Final\ManifestContainers\Cympr01.rpt=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\WINNT\Crystal\u2lbar.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\Final\NTBS.ini=Yes
+C:\Final\NTBSBkg.jpg=Yes
+D:\NTBS\SubicMainMenu\Main.exe=No
+D:\Billing\CYInvoice\Main Menu\Support\u2lbar.dll=No
+D:\NTBS\SubicMainMenu\cCTCS.dll=No
+D:\NTBS\SubicMainMenu\NTBS.ini=No
+D:\NTBS\SubicMainMenu\NTBSBkg.jpg=No
+D:\NTBS\Reports\prjCYMReport.dll=No
+
+[Package|Subic NT Billing System|Distribution]
+Type=single
+Size=
+Title=Subic NT Billing System
+
+[Package|Subic NT Billing System|Package]
+PackageFolder=d:\NTBS\SubicMainMenu\Package
+ProjectFolder=D:\NTBS\SubicMainMenu
+ServerSideCab=
+File1=d:\NTBS\SubicMainMenu\Package\setup.exe
+File2=d:\NTBS\SubicMainMenu\Package\Setup.Lst
+File3=d:\NTBS\SubicMainMenu\Package\Main.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Subic NT Billing System|IconGroups]
+Group0=Subic NT Billing System
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Subic NT Billing System|Subic NT Billing System]
+Icon1=Main.exe
+Title1=Subic NT Billing System
+StartIn1=$(AppPath)
+Key1=Icon2

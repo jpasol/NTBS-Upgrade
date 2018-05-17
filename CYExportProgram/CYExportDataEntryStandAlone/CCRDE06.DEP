@@ -1,0 +1,36 @@
+[Version]
+Version=1.0.0.0
+
+[CCRDE06.dll <0009>]
+Dest=$(WinSysPath)
+Date=8/23/00
+Time=14:54
+Version=1.0.0.0
+CABFilename=CCRDE06.CAB
+CABINFFile=CCRDE06.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSDERUN.DLL
+Uses8=crviewer.dll
+Uses9=craxdrt.dll
+Uses10=MSFLXGRD.OCX
+Uses11=TABCTL32.OCX
+Uses12=MSCOMCTL.OCX
+Uses13=CRUFLCfs.dll
+Uses14=u25rt.dll
+
+[CRUFLCfs.dll <0009>]
+Dest=$(WinSysPath)
+Date=6/1/00
+Time=09:38
+Version=1.0.0.0
+
+[u25rt.dll <0009>]
+Dest=$(WinSysPath)
+Date=3/10/98
+Time=15:12
+Version=6.0.0.3

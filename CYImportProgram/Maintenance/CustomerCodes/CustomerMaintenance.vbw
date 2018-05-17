@@ -1,0 +1,5 @@
+clsCustMaintenance = 22, 29, 613, 477, 
+frmCustomerMain = 66, 66, 577, 514, , 66, 66, 577, 514, C
+frmCustomerList = 154, 154, 644, 602, , 66, 66, 575, 506, C
+modCustomerMaintenance = 44, 44, 553, 492, 
+CrystalReport1 = 0, 0, 0, 0, C, 0, 0, 591, 448, CZ

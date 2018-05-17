@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=CYGpassTrans.vbp
+StartupProject=..\..\..\..\..\SBITCPrograms\NTBS\Import\Inquiry\InquiryByContainer\prjTest.vbp

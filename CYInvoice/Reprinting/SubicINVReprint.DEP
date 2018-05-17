@@ -1,0 +1,19 @@
+[Version]
+Version=1.0.0.0
+
+[SubicINVReprint.dll <0009>]
+Dest=$(WinSysPath)
+Date=8/8/00
+Time=15:08
+Version=1.0.0.0
+CABFilename=SubicINVReprint.CAB
+CABINFFile=SubicINVReprint.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=crviewer.dll
+Uses8=msado20.tlb
+Uses9=crystl32.ocx

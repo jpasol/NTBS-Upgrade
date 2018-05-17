@@ -1,0 +1,19 @@
+[Version]
+Version=1.0.0.0
+
+[CCRAllocation.dll <0009>]
+Dest=$(WinSysPath)
+Date=7/14/2000
+Time=14:30
+Version=1.0.0.0
+CABFilename=CCRAllocation.CAB
+CABINFFile=CCRAllocation.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=msado15.dll
+Uses8=TABCTL32.OCX
+Uses9=MSFLXGRD.OCX

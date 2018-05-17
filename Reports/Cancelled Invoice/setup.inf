@@ -1,0 +1,39 @@
+[Source Media Descriptions]
+	"1", "Seagate Crystal Reports Setup Disk1", "", ".\DECOMP"
+	"2", "Seagate Crystal Reports Setup Disk2", "", "."
+
+[Default File Settings]
+"STF_BACKUP"     = ""
+"STF_COPY"       = "YES"
+"STF_DECOMPRESS" = "YES"
+"STF_OVERWRITE"  = "ALWAYS"
+"STF_READONLY"   = ""
+"STF_ROOT"       = ""
+"STF_SETTIME"    = "YES"
+"STF_TIME"       = "0"
+"STF_VITAL"      = ""
+
+[@ATL]
+"WIN95" = 2, atl_95.dll,,,,,,, OLDER, !READONLY,, atl.dll,,, SHARED, 20992, SYSTEM,,, 2.0.7274.0, !VITAL
+"WINNT" = 2, atl_nt.dll,,,,,,, OLDER, !READONLY,, atl.dll,,, SHARED, 18432, SYSTEM,,, 2.0.7274.0, !VITAL
+
+[@Ctl3d]
+"WIN95" = 2, ctl3d95.dll,,,,,,, OLDER, !READONLY,, ctl3d32.dll,,, SHARED, 26624,,,, 2.31.0.0, !VITAL
+"WINNT" = 2, ctl3dnt.dll,,,,,,, OLDER, !READONLY,, ctl3d32.dll,,, SHARED, 27136,,,, 2.31.0.0, !VITAL
+
+[@Target/Uninst32]
+	2, crexpd32.dll,,,, 1998-09-14, !DECOMPRESS,,, !READONLY,, crexpd32.dl_,,,, 49152,,,,,
+	2, setup.exe,,,,, !DECOMPRESS,,, !READONLY,,,,,, 56832,,,,, !VITAL
+	2, corelist.ini,,,, 1998-09-14, !DECOMPRESS,,, !READONLY,,,,,, 1476,,,,, !VITAL
+	2, crwstp32.exe,,,, 1998-09-14, !DECOMPRESS,,, !READONLY,, crwstp32.ex_,,,, 1954304,,,,, !VITAL
+	2, mscomstf.dll,,,,, !DECOMPRESS,,, !READONLY,, mscomstf.dl_,,,, 89088,,,,,
+	2, msdetstf.dll,,,,, !DECOMPRESS,,, !READONLY,, msdetstf.dl_,,,, 20480,,,,,
+	2, msinsstf.dll,,,,, !DECOMPRESS,,, !READONLY,, msinsstf.dl_,,,, 69632,,,,,
+	2, msshlstf.dll,,,,, !DECOMPRESS,,, !READONLY,, msshlstf.dl_,,,, 23552,,,,,
+	2, msuilstf.dll,,,,, !DECOMPRESS,,, !READONLY,, msuilstf.dl_,,,, 49152,,,,,
+	2, setup.ini,,,, 1998-09-14, !DECOMPRESS,,, !READONLY,,,,,, 34368,,,,, !VITAL
+	2, setup.lst,,,, 1998-09-14,,,, !READONLY,,,,,, 526,,,,,
+	2, setupres.dll,,,, 1998-09-14, !DECOMPRESS,,, !READONLY,, stpres32.dl_,,,, 622080,,,,, !VITAL
+	2, msvcrt.dll,,,,, !DECOMPRESS,, OLDER, !READONLY,, msvcrt.cr_,,,, 267536,,,, 4.20.0.6201, !VITAL
+	2, rptfiles.lyt,,,, 1998-09-14,,,, !READONLY,,,,,, 1710,,,,, !VITAL
+	2, setup.inf,,,, 1998-09-14, !DECOMPRESS,,, !READONLY,,,,,, 120574,,,,,

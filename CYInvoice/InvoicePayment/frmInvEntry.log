@@ -1,0 +1,56 @@
+Line 54: Class MpUserControls.utxtNumBilling of control txtPtax was not a loaded control class.
+Line 93: Class MpUserControls.utxtNumBilling of control txtCheckNo1 was not a loaded control class.
+Line 112: Class MpUserControls.utxtTextBilling of control txtChkAmount1 was not a loaded control class.
+Line 169: Class MpUserControls.utxtTextBilling of control txtBank1 was not a loaded control class.
+Line 188: Class MpUserControls.utxtNumBilling of control txtCheckNo2 was not a loaded control class.
+Line 207: Class MpUserControls.utxtTextBilling of control txtBank2 was not a loaded control class.
+Line 226: Class MpUserControls.utxtNumBilling of control txtCash was not a loaded control class.
+Line 247: Class MpUserControls.utxtTextBilling of control txtChkAmount2 was not a loaded control class.
+Line 762: Class MpUserControls.utxtNumBilling of control txtPayContest was not a loaded control class.
+Line 784: Class MpUserControls.utxtNumBilling of control txtPayContest was not a loaded control class.
+Line 972: Class MpUserControls.utxtTextBilling of control txtCustomerCode was not a loaded control class.
+Line 1008: Class MpUserControls.utxtNumBilling of control txtORNum was not a loaded control class.
+Line 1343: Class MpUserControls.utxtNumBilling of control txtPayment was not a loaded control class.
+Line 1362: Class MpUserControls.utxtNumBilling of control txtInvNum was not a loaded control class.
+Line 1382: Class MpUserControls.utxtNumBilling of control txtTax was not a loaded control class.
+Line 60: The property name _ExtentX in txtPtax is invalid.
+Line 61: The property name _ExtentY in txtPtax is invalid.
+Line 72: The property name DecimalPlaces in txtPtax is invalid.
+Line 99: The property name _ExtentX in txtCheckNo1 is invalid.
+Line 100: The property name _ExtentY in txtCheckNo1 is invalid.
+Line 118: The property name _ExtentX in txtChkAmount1 is invalid.
+Line 119: The property name _ExtentY in txtChkAmount1 is invalid.
+Line 175: The property name _ExtentX in txtBank1 is invalid.
+Line 176: The property name _ExtentY in txtBank1 is invalid.
+Line 194: The property name _ExtentX in txtCheckNo2 is invalid.
+Line 195: The property name _ExtentY in txtCheckNo2 is invalid.
+Line 213: The property name _ExtentX in txtBank2 is invalid.
+Line 214: The property name _ExtentY in txtBank2 is invalid.
+Line 232: The property name _ExtentX in txtCash is invalid.
+Line 233: The property name _ExtentY in txtCash is invalid.
+Line 244: The property name Alignment in txtCash is invalid.
+Line 245: The property name DecimalPlaces in txtCash is invalid.
+Line 253: The property name _ExtentX in txtChkAmount2 is invalid.
+Line 254: The property name _ExtentY in txtChkAmount2 is invalid.
+Line 769: The property name _ExtentX in txtPayContest is invalid.
+Line 770: The property name _ExtentY in txtPayContest is invalid.
+Line 781: The property name Alignment in txtPayContest is invalid.
+Line 782: The property name DecimalPlaces in txtPayContest is invalid.
+Line 791: The property name _ExtentX in txtPayContest is invalid.
+Line 792: The property name _ExtentY in txtPayContest is invalid.
+Line 803: The property name Alignment in txtPayContest is invalid.
+Line 804: The property name DecimalPlaces in txtPayContest is invalid.
+Line 978: The property name _ExtentX in txtCustomerCode is invalid.
+Line 979: The property name _ExtentY in txtCustomerCode is invalid.
+Line 990: The property name MaxLength in txtCustomerCode is invalid.
+Line 1014: The property name _ExtentX in txtORNum is invalid.
+Line 1015: The property name _ExtentY in txtORNum is invalid.
+Line 1026: The property name MaxLength in txtORNum is invalid.
+Line 1349: The property name _ExtentX in txtPayment is invalid.
+Line 1350: The property name _ExtentY in txtPayment is invalid.
+Line 1368: The property name _ExtentX in txtInvNum is invalid.
+Line 1369: The property name _ExtentY in txtInvNum is invalid.
+Line 1380: The property name IncludeDecimal in txtInvNum is invalid.
+Line 1388: The property name _ExtentX in txtTax is invalid.
+Line 1389: The property name _ExtentY in txtTax is invalid.
+Line 1400: The property name MaxLength in txtTax is invalid.

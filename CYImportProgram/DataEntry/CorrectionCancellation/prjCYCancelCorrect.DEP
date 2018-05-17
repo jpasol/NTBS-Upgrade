@@ -1,0 +1,27 @@
+[Version]
+Version=1.0.0.0
+
+[prjCYCancelCorrect.dll <0009>]
+Dest=$(WinSysPath)
+Date=8/7/99
+Time=14:29
+Version=1.0.0.0
+CABFilename=prjCYCancelCorrect.CAB
+CABINFFile=prjCYCancelCorrect.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=cADR.dll
+Uses8=MSADO20.TLB
+Uses9=msmask32.ocx
+Uses10=TABCTL32.OCX
+Uses11=MSFLXGRD.OCX
+
+[MSADO20.TLB <0009>]
+Dest=$(WinSysPath)
+Date=11/20/98
+Time=00:00
+Version=0.0.0.0

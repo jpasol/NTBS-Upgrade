@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dtasetCAC" targetNamespace="http://tempuri.org/dtasetCAC.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/dtasetCAC.xsd" xmlns:mstns="http://tempuri.org/dtasetCAC.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dtasetCAC" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="CASH">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Quantity" type="xs:integer" minOccurs="0" />
+							<xs:element name="Denomination" type="xs:string" minOccurs="0" />
+							<xs:element name="Amount" type="xs:decimal" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CHEQUE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Bank" type="xs:string" minOccurs="0" />
+							<xs:element name="Cheque_x0020_No." type="xs:string" minOccurs="0" />
+							<xs:element name="Amount" type="xs:decimal" minOccurs="0" />
+							<xs:element name="Excess" type="xs:decimal" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

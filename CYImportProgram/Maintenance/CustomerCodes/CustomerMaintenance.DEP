@@ -1,0 +1,20 @@
+[Version]
+Version=1.0.0.0
+
+[CustomerMaintenance.dll <0009>]
+Dest=$(WinSysPath)
+Date=8/9/00
+Time=14:22
+Version=1.0.0.0
+CABFilename=CustomerMaintenance.CAB
+CABINFFile=CustomerMaintenance.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=crviewer.dll
+Uses8=msado20.tlb
+Uses9=MSFLXGRD.OCX
+Uses10=crystl32.ocx

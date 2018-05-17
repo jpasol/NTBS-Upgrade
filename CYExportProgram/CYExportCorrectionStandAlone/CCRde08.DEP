@@ -1,0 +1,27 @@
+[Version]
+Version=1.0.0.0
+
+[CCRde08.dll <0009>]
+Dest=$(WinSysPath)
+Date=8/21/00
+Time=14:06
+Version=1.0.0.0
+CABFilename=CCRde08.CAB
+CABINFFile=CCRde08.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSDERUN.DLL
+Uses8=MpUserControls.ocx
+Uses9=TABCTL32.OCX
+Uses10=MSFLXGRD.OCX
+Uses11=MSCOMCTL.OCX
+
+[MpUserControls.ocx <0009>]
+Dest=$(WinSysPath)
+Date=7/23/99
+Time=17:32
+Version=1.0.0.0

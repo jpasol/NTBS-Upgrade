@@ -1,0 +1,25 @@
+[Version]
+Version=1.0.0.0
+
+[prjManifestCont.dll <0009>]
+Dest=$(WinSysPath)
+Date=6/18/99
+Time=14:37
+Version=1.0.0.0
+CABFilename=prjManifestCont.CAB
+CABINFFile=prjManifestCont.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSSTDFMT.DLL
+Uses8=MSADO15.DLL
+Uses9=cADR.dll
+Uses10=cCTCS.dll
+Uses11=MSCOMCT2.OCX
+Uses12=MSFLXGRD.OCX
+Uses13=msmask32.ocx
+Uses14=TABCTL32.OCX
+Uses15=crystl32.ocx

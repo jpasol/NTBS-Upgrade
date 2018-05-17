@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cargo Manifest", "Cargo Manifest\Cargo Manifest.vbproj", "{319815F2-AD45-4B07-9A9F-337568F04781}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Upload Manifest", "Upload Manifest\Upload Manifest.vbproj", "{51FBBE21-5C4B-4453-A788-08121A2FC15B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CMS", "CMS\CMS.vdproj", "{A85FF4B3-C59E-4544-A429-35AE59EB5E19}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{319815F2-AD45-4B07-9A9F-337568F04781}.Debug.ActiveCfg = Debug|.NET
+		{319815F2-AD45-4B07-9A9F-337568F04781}.Debug.Build.0 = Debug|.NET
+		{319815F2-AD45-4B07-9A9F-337568F04781}.Release.ActiveCfg = Release|.NET
+		{319815F2-AD45-4B07-9A9F-337568F04781}.Release.Build.0 = Release|.NET
+		{51FBBE21-5C4B-4453-A788-08121A2FC15B}.Debug.ActiveCfg = Debug|.NET
+		{51FBBE21-5C4B-4453-A788-08121A2FC15B}.Debug.Build.0 = Debug|.NET
+		{51FBBE21-5C4B-4453-A788-08121A2FC15B}.Release.ActiveCfg = Release|.NET
+		{51FBBE21-5C4B-4453-A788-08121A2FC15B}.Release.Build.0 = Release|.NET
+		{A85FF4B3-C59E-4544-A429-35AE59EB5E19}.Debug.ActiveCfg = Debug
+		{A85FF4B3-C59E-4544-A429-35AE59EB5E19}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

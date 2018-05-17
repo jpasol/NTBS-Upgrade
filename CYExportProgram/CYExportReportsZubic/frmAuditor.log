@@ -1,0 +1,16 @@
+Line 73: Class cCCRRpt.prvusrctrlTime of control rptFromtime was not a loaded control class.
+Line 91: Class cCCRRpt.prvusrctrlDate of control RepDte was not a loaded control class.
+Line 137: Class cCCRRpt.ctrlCRViewerNav of control Nav1 was not a loaded control class.
+Line 215: Class cCCRRpt.prvusrctrlTime of control rptTotime was not a loaded control class.
+Line 234: Class cCCRRpt.prvusrctrlDate of control RepDte2 was not a loaded control class.
+Line 79: The property name _ExtentX in rptFromtime is invalid.
+Line 80: The property name _ExtentY in rptFromtime is invalid.
+Line 97: The property name _ExtentX in RepDte is invalid.
+Line 98: The property name _ExtentY in RepDte is invalid.
+Line 143: The property name _ExtentX in Nav1 is invalid.
+Line 144: The property name _ExtentY in Nav1 is invalid.
+Line 221: The property name _ExtentX in rptTotime is invalid.
+Line 222: The property name _ExtentY in rptTotime is invalid.
+Line 232: The property name MaxLength in rptTotime is invalid.
+Line 242: The property name _ExtentX in RepDte2 is invalid.
+Line 243: The property name _ExtentY in RepDte2 is invalid.

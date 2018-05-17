@@ -1,0 +1,33 @@
+[Version]
+Version=1.0.0.0
+
+[prjCYMReport.dll <0009>]
+Dest=$(AppPath)
+Date=6/9/99
+Time=18:52
+Version=1.0.0.0
+CABFilename=prjCYMReport.CAB
+CABINFFile=prjCYMReport.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=crviewer.dll
+Uses8=craxdrt.dll
+Uses9=MSADO15.DLL
+Uses10=msmask32.ocx
+Uses11=MSDBRPTR.DLL
+
+[crviewer.dll <0009>]
+Dest=$(WinSysPath)
+Date=11/8/98
+Time=16:00
+Version=2.2.4.36
+
+[craxdrt.dll <0009>]
+Dest=$(WinSysPath)
+Date=11/8/98
+Time=16:00
+Version=7.0.1.183

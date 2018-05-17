@@ -1,0 +1,210 @@
+[Root]
+Most Recent Package=Allocation
+
+
+[Package|Allocation Setup|Allocation]
+Icon1=Allocation.EXE
+Title1=Allocation
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Allocation Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Billing\Allocation\Package
+
+[Package|Allocation Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Allocation Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Allocation Setup|Files Found]
+
+[Package|Allocation Setup|Files Released]
+
+[Package|Allocation Setup|Missing Dependency Information]
+C:\WINNT\system32\MSADO20.TLB=
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=
+
+[Package|Allocation Setup|Out-of-Date Dependency Information]
+
+[Package|Allocation Setup|Files Added]
+
+[Package|Allocation Setup|Files Removed]
+
+[Package|Allocation Setup|Files In Project]
+C:\Billing\Allocation\Allocation.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\Olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=Yes
+
+[Package|Allocation Setup|Configure Registry Files]
+Applicable=No
+
+[Package|Allocation Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|Allocation Setup|Install Locations]
+C:\Billing\Allocation\Allocation.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSADO20.TLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=$(WinSysPath)
+
+[Package|Allocation Setup|Configure Shared Files]
+Applicable=Yes
+C:\Billing\Allocation\Allocation.exe=Yes
+
+[Package|Allocation Setup|Distribution]
+Type=single
+Size=
+Title=Allocation
+
+[Package|Allocation Setup|Package]
+PackageFolder=C:\Billing\Allocation\Package
+ProjectFolder=C:\Billing\Allocation
+ServerSideCab=
+File1=C:\Billing\Allocation\Package\setup.exe
+File2=C:\Billing\Allocation\Package\Setup.Lst
+File3=C:\Billing\Allocation\Package\Allocation.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Allocation Setup|IconGroups]
+Group0=NT Billing System
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Allocation Setup|NT Billing System]
+Icon1=Allocation.exe
+Title1=Allocation
+StartIn1=$(AppPath)
+Key1=Icon2
+
+
+[Package|Allocation|Allocation]
+Icon1=Allocation.EXE
+Title1=Allocation
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Allocation|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Billing1\Allocation\Package
+
+[Package|Allocation|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Allocation|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Allocation|Files Found]
+
+[Package|Allocation|Files Released]
+
+[Package|Allocation|Missing Dependency Information]
+C:\WINNT\system32\MSADO20.TLB=
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=
+
+[Package|Allocation|Out-of-Date Dependency Information]
+
+[Package|Allocation|Files Added]
+
+[Package|Allocation|Files Removed]
+
+[Package|Allocation|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\Olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=Yes
+D:\Billing1\Allocation\Allocation.exe=Yes
+
+[Package|Allocation|Configure Registry Files]
+Applicable=No
+
+[Package|Allocation|Configure Remote Servers]
+Applicable=No
+
+[Package|Allocation|Install Locations]
+C:\Billing\Allocation\Allocation.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSADO20.TLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=$(WinSysPath)
+D:\Billing1\Allocation\Allocation.exe=$(AppPath)
+
+[Package|Allocation|Configure Shared Files]
+Applicable=Yes
+C:\Billing\Allocation\Allocation.exe=Yes
+D:\Billing1\Allocation\Allocation.exe=Yes
+
+[Package|Allocation|Distribution]
+Type=single
+Size=
+Title=Allocation
+
+[Package|Allocation|IconGroups]
+Group0=NT Billing System
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Allocation|NT Billing System]
+Icon1=Allocation.exe
+Title1=Allocation
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|Allocation|Package]
+PackageFolder=d:\Billing1\Allocation\Package
+ProjectFolder=D:\Billing1\Allocation
+ServerSideCab=
+File1=d:\Billing1\Allocation\Package\setup.exe
+File2=d:\Billing1\Allocation\Package\Setup.Lst
+File3=d:\Billing1\Allocation\Package\Allocation.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

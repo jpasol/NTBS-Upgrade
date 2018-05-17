@@ -1,0 +1,486 @@
+[Root]
+Most Recent Package=Dep File 3
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Final\Reprint
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|Dep File 1|Missing Dependency Information]
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Final\Reprint\prjReprint.dll=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\MSADO15.DLL=Yes
+C:\WINNT\system32\msmask32.ocx=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\MSVCRT.DLL=Yes
+C:\WINNT\system32\mfc42.dll=Yes
+C:\WINNT\Crystal\CRXLAT32.DLL=Yes
+C:\WINNT\Crystal\p2bbde.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\Crystal\p2bxbse.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\Crystal\p2sifmx.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\Crystal\p2sora7.dll=Yes
+C:\WINNT\Crystal\p2ssql.dll=Yes
+C:\WINNT\Crystal\p2ssyb10.dll=Yes
+C:\WINNT\Crystal\p2soledb.dll=Yes
+C:\WINNT\Crystal\U2DDISK.DLL=Yes
+C:\WINNT\Crystal\U2DMAPI.DLL=Yes
+C:\WINNT\Crystal\u2dnotes.dll=Yes
+C:\WINNT\Crystal\u2dpost.dll=Yes
+C:\WINNT\Crystal\u2dvim.dll=Yes
+C:\WINNT\Crystal\u2dapp.dll=Yes
+C:\WINNT\Crystal\U2FCR.DLL=Yes
+C:\WINNT\Crystal\U2FHTML.DLL=Yes
+C:\WINNT\Crystal\u2fodbc.dll=Yes
+C:\WINNT\Crystal\U2FREC.DLL=Yes
+C:\WINNT\Crystal\U2FRTF.DLL=Yes
+C:\WINNT\Crystal\U2FSEPV.DLL=Yes
+C:\WINNT\Crystal\U2FTEXT.DLL=Yes
+C:\WINNT\Crystal\U2FWKS.DLL=Yes
+C:\WINNT\Crystal\U2FWORDW.DLL=Yes
+C:\WINNT\Crystal\U2FXLS.DLL=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\WINNT\Crystal\u2l2000.dll=Yes
+C:\WINNT\Crystal\u2lbar.dll=Yes
+C:\WINNT\Crystal\u2lcom.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\WINNT\Crystal\u252000.dll=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+C:\Final\Reprint\prjReprint.dll=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\MSADO15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\msmask32.ocx=$(WinSysPath)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+C:\WINNT\system32\MSVCRT.DLL=$(WinSysPath)
+C:\WINNT\system32\mfc42.dll=$(WinSysPath)
+C:\WINNT\Crystal\CRXLAT32.DLL=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2DDISK.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2DMAPI.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FCR.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FHTML.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FREC.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FRTF.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FSEPV.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FTEXT.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FWKS.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FWORDW.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FXLS.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(AppPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(AppPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=prjReprint.CAB
+DepCabRun=prjReprint.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\Final\Reprint
+ProjectFolder=C:\Final\Reprint
+ServerSideCab=
+File1=C:\Final\Reprint\prjReprint.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Final\Reprint
+
+[Package|Dep File 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 2|Files Found]
+U25STORE.DLL=C:\setup\U25STORE.DLL
+
+[Package|Dep File 2|Files Released]
+u25TOTAL.DLL=
+Crystal=
+
+[Package|Dep File 2|Missing Dependency Information]
+
+[Package|Dep File 2|Out-of-Date Dependency Information]
+
+[Package|Dep File 2|Files Added]
+C:\Final\Reprint\Cympr01.rpt=
+
+[Package|Dep File 2|Files Removed]
+
+[Package|Dep File 2|Files In Project]
+C:\Final\Reprint\prjReprint.dll=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\MSADO15.DLL=Yes
+C:\WINNT\system32\msmask32.ocx=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\MSVCRT.DLL=Yes
+C:\WINNT\system32\mfc42.dll=Yes
+C:\WINNT\Crystal\CRXLAT32.DLL=Yes
+C:\WINNT\Crystal\p2bbde.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\Crystal\p2bxbse.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\Crystal\p2sifmx.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\Crystal\p2sora7.dll=Yes
+C:\WINNT\Crystal\p2ssql.dll=Yes
+C:\WINNT\Crystal\p2ssyb10.dll=Yes
+C:\WINNT\Crystal\p2soledb.dll=Yes
+C:\WINNT\Crystal\U2DDISK.DLL=Yes
+C:\WINNT\Crystal\U2DMAPI.DLL=Yes
+C:\WINNT\Crystal\u2dnotes.dll=Yes
+C:\WINNT\Crystal\u2dpost.dll=Yes
+C:\WINNT\Crystal\u2dvim.dll=Yes
+C:\WINNT\Crystal\u2dapp.dll=Yes
+C:\WINNT\Crystal\U2FCR.DLL=Yes
+C:\WINNT\Crystal\U2FHTML.DLL=Yes
+C:\WINNT\Crystal\u2fodbc.dll=Yes
+C:\WINNT\Crystal\U2FREC.DLL=Yes
+C:\WINNT\Crystal\U2FRTF.DLL=Yes
+C:\WINNT\Crystal\U2FSEPV.DLL=Yes
+C:\WINNT\Crystal\U2FTEXT.DLL=Yes
+C:\WINNT\Crystal\U2FWKS.DLL=Yes
+C:\WINNT\Crystal\U2FWORDW.DLL=Yes
+C:\WINNT\Crystal\U2FXLS.DLL=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\setup\U25STORE.DLL=Yes
+C:\WINNT\Crystal\u2l2000.dll=Yes
+C:\WINNT\Crystal\u2lbar.dll=Yes
+C:\WINNT\Crystal\u2lcom.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\WINNT\Crystal\u252000.dll=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+C:\Final\Reprint\Cympr01.rpt=Yes
+
+[Package|Dep File 2|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 2|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 2|Install Locations]
+C:\Final\Reprint\prjReprint.dll=$(WinSysPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\MSADO15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\msmask32.ocx=$(WinSysPath)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+C:\WINNT\system32\MSVCRT.DLL=$(WinSysPath)
+C:\WINNT\system32\mfc42.dll=$(WinSysPath)
+C:\WINNT\Crystal\CRXLAT32.DLL=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2DDISK.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2DMAPI.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FCR.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FHTML.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FREC.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FRTF.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FSEPV.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FTEXT.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FWKS.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FWORDW.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FXLS.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(AppPath)
+C:\setup\U25STORE.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(AppPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\Final\Reprint\Cympr01.rpt=$(AppPath)
+
+[Package|Dep File 2|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 2|DepFile]
+DepCabFile=prjReprint.CAB
+DepCabRun=prjReprint.INF
+
+[Package|Dep File 2|Package]
+PackageFolder=C:\Final\Reprint
+ProjectFolder=C:\Final\Reprint
+ServerSideCab=
+File1=C:\Final\Reprint\prjReprint.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 3|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Final\Reprint
+
+[Package|Dep File 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 3|Files Found]
+U25STORE.DLL=C:\setup\U25STORE.DLL
+
+[Package|Dep File 3|Files Released]
+u25TOTAL.DLL=
+Crystal=
+
+[Package|Dep File 3|Missing Dependency Information]
+
+[Package|Dep File 3|Out-of-Date Dependency Information]
+
+[Package|Dep File 3|Files Added]
+C:\Final\Reprint\Cympr01.rpt=
+
+[Package|Dep File 3|Files Removed]
+
+[Package|Dep File 3|Files In Project]
+C:\Final\Reprint\prjReprint.dll=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\MSADO15.DLL=Yes
+C:\WINNT\system32\msmask32.ocx=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\MSVCRT.DLL=Yes
+C:\WINNT\system32\mfc42.dll=Yes
+C:\WINNT\Crystal\CRXLAT32.DLL=Yes
+C:\WINNT\Crystal\p2bbde.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\Crystal\p2bxbse.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\Crystal\p2sifmx.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\Crystal\p2sora7.dll=Yes
+C:\WINNT\Crystal\p2ssql.dll=Yes
+C:\WINNT\Crystal\p2ssyb10.dll=Yes
+C:\WINNT\Crystal\p2soledb.dll=Yes
+C:\WINNT\Crystal\U2DDISK.DLL=Yes
+C:\WINNT\Crystal\U2DMAPI.DLL=Yes
+C:\WINNT\Crystal\u2dnotes.dll=Yes
+C:\WINNT\Crystal\u2dpost.dll=Yes
+C:\WINNT\Crystal\u2dvim.dll=Yes
+C:\WINNT\Crystal\u2dapp.dll=Yes
+C:\WINNT\Crystal\U2FCR.DLL=Yes
+C:\WINNT\Crystal\U2FHTML.DLL=Yes
+C:\WINNT\Crystal\u2fodbc.dll=Yes
+C:\WINNT\Crystal\U2FREC.DLL=Yes
+C:\WINNT\Crystal\U2FRTF.DLL=Yes
+C:\WINNT\Crystal\U2FSEPV.DLL=Yes
+C:\WINNT\Crystal\U2FTEXT.DLL=Yes
+C:\WINNT\Crystal\U2FWKS.DLL=Yes
+C:\WINNT\Crystal\U2FWORDW.DLL=Yes
+C:\WINNT\Crystal\U2FXLS.DLL=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\setup\U25STORE.DLL=Yes
+C:\WINNT\Crystal\u2l2000.dll=Yes
+C:\WINNT\Crystal\u2lbar.dll=Yes
+C:\WINNT\Crystal\u2lcom.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\WINNT\Crystal\u252000.dll=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+C:\Final\Reprint\Cympr01.rpt=Yes
+
+[Package|Dep File 3|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 3|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 3|Install Locations]
+C:\Final\Reprint\prjReprint.dll=$(WinSysPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\MSADO15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\msmask32.ocx=$(WinSysPath)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+C:\WINNT\system32\MSVCRT.DLL=$(WinSysPath)
+C:\WINNT\system32\mfc42.dll=$(WinSysPath)
+C:\WINNT\Crystal\CRXLAT32.DLL=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2DDISK.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2DMAPI.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FCR.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FHTML.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FREC.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FRTF.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FSEPV.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FTEXT.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FWKS.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FWORDW.DLL=$(WinSysPath)
+C:\WINNT\Crystal\U2FXLS.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(AppPath)
+C:\setup\U25STORE.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(AppPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\Final\Reprint\Cympr01.rpt=$(AppPath)
+
+[Package|Dep File 3|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 3|DepFile]
+DepCabFile=prjReprint.CAB
+DepCabRun=prjReprint.INF
+
+[Package|Dep File 3|Package]
+PackageFolder=C:\Final\Reprint
+ProjectFolder=C:\Final\Reprint
+ServerSideCab=
+File1=C:\Final\Reprint\prjReprint.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,25 @@
+[Version]
+Version=1.0.0.0
+
+[CYGpassTrans.dll <0009>]
+Dest=$(AppPath)
+Date=6/9/99
+Time=18:48
+Version=1.0.0.0
+CABFilename=CYGpassTrans.CAB
+CABINFFile=CYGpassTrans.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=crviewer.dll
+Uses8=MSADO15.DLL
+Uses9=msmask32.ocx
+
+[crviewer.dll <0009>]
+Dest=$(WinSysPath)
+Date=11/8/98
+Time=16:00
+Version=2.2.4.36

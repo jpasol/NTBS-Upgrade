@@ -1,0 +1,81 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=c:\Final\Container Inquiry
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+craxdrt.dll=D:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll
+sscsdk32.dll=C:\Program Files\Seagate Software\SSChart\sscsdk32.dll
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINNT\system32\crviewer.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\Olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\msmask32.ocx=Yes
+C:\Final\Container Inquiry\CYGpassTrans.dll=Yes
+C:\WINNT\system32\crviewer.dll=Yes
+C:\Program Files\Common Files\System\ado\MSADO15.DLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\Billing1\CYImportInquiry\CYMContainerInquiry\CYGpassTrans.dll=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msmask32.ocx=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\SSChart\sscsdk32.dll=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\Final\Container Inquiry\CYGpassTrans.dll=$(AppPath)
+C:\WINNT\system32\crviewer.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\MSADO15.DLL=$(CommonFilesSys)\ADO
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=CYGpassTrans.CAB
+DepCabRun=CYGpassTrans.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=c:\Final\Container Inquiry
+ProjectFolder=C:\Final\Container Inquiry
+ServerSideCab=
+File1=c:\Final\Container Inquiry\CYGpassTrans.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

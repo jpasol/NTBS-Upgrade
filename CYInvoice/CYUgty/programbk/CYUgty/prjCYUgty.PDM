@@ -1,0 +1,121 @@
+[Root]
+Most Recent Package=CY Underguarantee
+
+
+[Package|CY Underguarantee|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\VB Programs\Billing\SubicInvoice\CYUgty\Package
+
+[Package|CY Underguarantee|Configure DAO ISAMs]
+Applicable=No
+
+[Package|CY Underguarantee|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|CY Underguarantee|Files Found]
+sscsdk32.dll=D:\Public\DLLs\sscsdk32.dll
+
+[Package|CY Underguarantee|Files Released]
+
+[Package|CY Underguarantee|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|CY Underguarantee|Out-of-Date Dependency Information]
+C:\WINNT\system32\COMCTL32.OCX=
+C:\WINNT\system32\MSMASK32.OCX=
+
+[Package|CY Underguarantee|Files Added]
+
+[Package|CY Underguarantee|Files Removed]
+
+[Package|CY Underguarantee|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\WINNT\system32\MSMASK32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB Programs\Billing\SubicInvoice\CYUgty\prjCYUgty.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=Yes
+D:\Public\DLLs\sscsdk32.dll=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+
+[Package|CY Underguarantee|Configure Registry Files]
+Applicable=No
+
+[Package|CY Underguarantee|Configure Remote Servers]
+Applicable=No
+
+[Package|CY Underguarantee|Install Locations]
+D:\Billing\INVUgty\CYUgty\prjCYUgty.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+D:\Seagate\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+D:\Seagate\sscsdk32.dll=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\WINNT\system32\MSMASK32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB Programs\Billing\SubicInvoice\CYUgty\prjCYUgty.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=$(WinSysPath)
+D:\Public\DLLs\sscsdk32.dll=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+
+[Package|CY Underguarantee|Configure Shared Files]
+Applicable=Yes
+D:\Billing\INVUgty\CYUgty\prjCYUgty.exe=No
+C:\WINNT\system32\implode.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\VB Programs\Billing\SubicInvoice\CYUgty\prjCYUgty.exe=No
+
+[Package|CY Underguarantee|Distribution]
+Type=single
+Size=
+Title=CY Underguarantee
+
+[Package|CY Underguarantee|IconGroups]
+Group0=NT Billing System
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|CY Underguarantee|NT Billing System]
+Icon1=prjCYUgty.exe
+Title1=CY Underguarantee Invoicing
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|CY Underguarantee|Package]
+PackageFolder=D:\VB Programs\Billing\SubicInvoice\CYUgty\Package
+ProjectFolder=D:\VB Programs\Billing\SubicInvoice\CYUgty
+ServerSideCab=
+File1=D:\VB Programs\Billing\SubicInvoice\CYUgty\Package\setup.exe
+File2=D:\VB Programs\Billing\SubicInvoice\CYUgty\Package\Setup.Lst
+File3=D:\VB Programs\Billing\SubicInvoice\CYUgty\Package\prjCYUgty.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

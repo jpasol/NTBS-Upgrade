@@ -1,0 +1,20 @@
+[Version]
+Version=1.0.0.0
+
+[prjReprint.dll <0009>]
+Dest=$(WinSysPath)
+Date=6/18/99
+Time=15:00
+Version=1.0.0.0
+CABFilename=prjReprint.CAB
+CABINFFile=prjReprint.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSADO15.DLL
+Uses8=msmask32.ocx
+Uses9=crystl32.ocx
+Uses10=Cympr01.rpt

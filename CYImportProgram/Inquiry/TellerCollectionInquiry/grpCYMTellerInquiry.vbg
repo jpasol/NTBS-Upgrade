@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=CYMTellerInquiry.vbp
+StartupProject=..\..\..\..\..\SBITCPrograms\NTBS\Import\Inquiry\TellerCollectionInquiry\prjTest.vbp

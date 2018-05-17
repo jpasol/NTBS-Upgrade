@@ -1,0 +1,213 @@
+[Root]
+Most Recent Package=CY Import Teller Inquiry
+
+
+[Package|CY Import Teller Inquiry|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Billing1\CYImportInquiry\Package
+
+[Package|CY Import Teller Inquiry|Configure DAO ISAMs]
+Applicable=No
+
+[Package|CY Import Teller Inquiry|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|CY Import Teller Inquiry|Files Found]
+U25STORE.DLL=D:\Program Files\U25STORE.DLL
+sscsdk32.dll=C:\Program Files\Seagate Software\SSChart\sscsdk32.dll
+
+[Package|CY Import Teller Inquiry|Files Released]
+u25TOTAL.DLL=
+Crystal=
+
+[Package|CY Import Teller Inquiry|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=
+D:\Program Files\Seagate Software\Crystal Reports\craxdui.dll=
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=
+D:\Program Files\Seagate Software\Crystal Reports\craxddt.dll=
+C:\Program Files\Seagate Software\Shared\cdo32.dll=
+
+[Package|CY Import Teller Inquiry|Out-of-Date Dependency Information]
+
+[Package|CY Import Teller Inquiry|Files Added]
+
+[Package|CY Import Teller Inquiry|Files Removed]
+
+[Package|CY Import Teller Inquiry|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\Olepro32.dll=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Seagate Software\Shared\cdo32.dll=Yes
+D:\Program Files\Seagate Software\Crystal Reports\craxddt.dll=Yes
+D:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\crpaig32.dll=Yes
+C:\WINNT\system32\p2smon.dll=Yes
+C:\WINNT\system32\cpeaut32.dll=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\Msvcrt.dll=Yes
+C:\WINNT\system32\MFC42.DLL=Yes
+C:\WINNT\Crystal\crxlat32.dll=Yes
+C:\WINNT\Crystal\p2bbde.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\Crystal\p2bxbse.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\Crystal\p2sifmx.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\Crystal\p2sora7.dll=Yes
+C:\WINNT\Crystal\p2ssql.dll=Yes
+C:\WINNT\Crystal\p2ssyb10.dll=Yes
+C:\WINNT\Crystal\p2soledb.dll=Yes
+C:\WINNT\Crystal\u2ddisk.dll=Yes
+C:\WINNT\Crystal\u2dmapi.dll=Yes
+C:\WINNT\Crystal\u2dnotes.dll=Yes
+C:\WINNT\Crystal\u2dpost.dll=Yes
+C:\WINNT\Crystal\u2dvim.dll=Yes
+C:\WINNT\Crystal\u2dapp.dll=Yes
+C:\WINNT\Crystal\u2fcr.dll=Yes
+C:\WINNT\Crystal\u2fhtml.dll=Yes
+C:\WINNT\Crystal\u2fodbc.dll=Yes
+C:\WINNT\Crystal\u2frec.dll=Yes
+C:\WINNT\Crystal\u2frtf.dll=Yes
+C:\WINNT\Crystal\u2fsepv.dll=Yes
+C:\WINNT\Crystal\u2ftext.dll=Yes
+C:\WINNT\Crystal\u2fwks.dll=Yes
+C:\WINNT\Crystal\u2fwordw.dll=Yes
+C:\WINNT\Crystal\u2fxls.dll=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+D:\Program Files\U25STORE.DLL=Yes
+C:\WINNT\Crystal\u2l2000.dll=Yes
+C:\WINNT\Crystal\u2lbar.dll=Yes
+C:\WINNT\Crystal\u2lcom.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\WINNT\Crystal\u252000.dll=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+D:\Program Files\Seagate Software\Crystal Reports\craxdui.dll=Yes
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=Yes
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=Yes
+C:\WINNT\system32\msmask32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Billing1\CYImportInquiry\CYMINTeller.exe=Yes
+C:\Program Files\Seagate Software\SSChart\sscsdk32.dll=Yes
+
+[Package|CY Import Teller Inquiry|Configure Registry Files]
+Applicable=No
+
+[Package|CY Import Teller Inquiry|Configure Remote Servers]
+Applicable=No
+
+[Package|CY Import Teller Inquiry|Install Locations]
+C:\Billing\CYImportInquiry\CYMINTeller.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Seagate Software\Shared\cdo32.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxddt.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxdrt.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(AppPath)
+C:\WINNT\system32\crpaig32.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\WINNT\system32\p2smon.dll=$(WinSysPath)
+C:\WINNT\system32\cpeaut32.dll=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\Msvcrt.dll=$(WinSysPath)
+C:\WINNT\system32\MFC42.DLL=$(WinSysPath)
+C:\WINNT\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(AppPath)
+D:\Program Files\U25STORE.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(AppPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\sviewhlp.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+D:\Program Files\Seagate Software\Crystal Reports\craxdui.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\MSADO20.TLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\MSADOR15.DLL=$(CommonFilesSys)\ADO
+C:\WINNT\system32\msmask32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Billing1\CYImportInquiry\CYMINTeller.exe=$(AppPath)
+C:\Program Files\Seagate Software\SSChart\sscsdk32.dll=$(WinSysPath)
+
+[Package|CY Import Teller Inquiry|Configure Shared Files]
+Applicable=Yes
+C:\Billing\CYImportInquiry\CYMINTeller.exe=No
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\WINNT\Crystal\u2lbar.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+D:\Billing1\CYImportInquiry\CYMINTeller.exe=Yes
+
+[Package|CY Import Teller Inquiry|Distribution]
+Type=single
+Size=
+Title=CY Import Teller Inquiry
+
+[Package|CY Import Teller Inquiry|IconGroups]
+Group0=NT Billing System
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|CY Import Teller Inquiry|NT Billing System]
+Icon1=CYMINTeller.exe
+Title1=CY Import Teller Inquiry
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|CY Import Teller Inquiry|Package]
+PackageFolder=d:\Billing1\CYImportInquiry\Package
+ProjectFolder=D:\Billing1\CYImportInquiry
+ServerSideCab=
+File1=d:\Billing1\CYImportInquiry\Package\setup.exe
+File2=d:\Billing1\CYImportInquiry\Package\Setup.Lst
+File3=d:\Billing1\CYImportInquiry\Package\CYMINTeller.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

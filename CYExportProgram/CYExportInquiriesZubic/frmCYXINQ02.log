@@ -1,0 +1,12 @@
+Line 221: Class CYXINQ01.utxtNumBilling of control ccrNo was not a loaded control class.
+Line 232: Class CYXINQ01.utxtNumBilling of control Number was not a loaded control class.
+Line 243: Class CYXINQ01.utxtTextBilling of control Prefix was not a loaded control class.
+Line 227: The property name _extentx in ccrNo is invalid.
+Line 228: The property name _extenty in ccrNo is invalid.
+Line 221: Property Font in ccrNo could not be set.
+Line 238: The property name _extentx in Number is invalid.
+Line 239: The property name _extenty in Number is invalid.
+Line 232: Property Font in Number could not be set.
+Line 249: The property name _extentx in Prefix is invalid.
+Line 250: The property name _extenty in Prefix is invalid.
+Line 243: Property Font in Prefix could not be set.

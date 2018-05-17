@@ -1,0 +1,8 @@
+clsCCRPr01 = 3, 3, 527, 334, C
+deCYEXCCR = 156, 156, 680, 487, C, 132, 132, 900, 772, C
+rptCYEXCCR = 0, 0, 0, 0, C, 78, 78, 683, 405, CZ
+modCYEXCCR = 104, 104, 628, 435, C
+frmPrinter = 0, 0, 0, 0, C, 26, 26, 550, 357, C
+frmREPRINT = 143, 260, 667, 591, C, 52, 52, 576, 383, C
+rptCYEXCCR2 = 0, 0, 0, 0, C, 52, 52, 924, 692, CZ
+frmCYEXCCR = 0, 0, 0, 0, C, 52, 52, 573, 383, CZ

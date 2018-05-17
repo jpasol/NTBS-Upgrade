@@ -1,0 +1,13 @@
+frmPrinter = 0, 0, 0, 0, C, 44, 44, 492, 392, C
+clsCYXINQ02 = 0, 0, 0, 0, C
+modCYXINQ01 = 0, 0, 0, 0, C
+prvusrctrlPlain = 0, 0, 0, 0, C, 66, 66, 514, 414, C
+prvusrctrlDate = 0, 0, 0, 0, C, 88, 88, 536, 436, C
+prvusrctrlTime = 0, 0, 0, 0, C, 110, 110, 558, 458, C
+clsCYXINQ01 = 0, 0, 0, 0, C
+pText = 0, 0, 0, 0, C, 132, 132, 580, 480, C
+pNumeric = 0, 0, 0, 0, C, 154, 154, 602, 502, C
+frmComputations = 0, 0, 0, 0, C, 0, 0, 448, 348, C
+frmCYXINQ02 = 0, 0, 0, 0, C, 22, 22, 470, 370, C
+frmCYXINQ01 = 0, 0, 0, 0, C, 44, 44, 492, 392, C
+deCYXINQ01 = 0, 0, 0, 0, C, 22, 22, 790, 666, C

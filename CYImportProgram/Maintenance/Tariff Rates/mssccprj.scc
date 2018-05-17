@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[CYRatesMaintenance.vbp]
+SCC_Aux_Path =\\itss-tfssvr\vss_itss$
+SCC_Project_Name ="$/itss/Subsidiaries/SBITC/NTBS Updates/CYImportProgram/Maintenance/Tariff Rates", XFBCAAAA
+
+[prjTest.vbp]
+SCC_Aux_Path =\\itss-tfssvr\vss_itss$
+SCC_Project_Name ="$/itss/Subsidiaries/SBITC/NTBS Updates/CYImportProgram/Maintenance/Tariff Rates", XFBCAAAA

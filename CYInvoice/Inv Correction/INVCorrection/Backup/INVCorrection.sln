@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "INVCorrection", "INVCorrection\INVCorrection.vbproj", "{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Invoice Correction Setup", "Invoice Correction Setup\Invoice Correction Setup.vdproj", "{4977FD9D-1574-495D-B1E9-3F397035550B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}.Debug.ActiveCfg = Debug|.NET
+		{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}.Debug.Build.0 = Debug|.NET
+		{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}.Release.ActiveCfg = Release|.NET
+		{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}.Release.Build.0 = Release|.NET
+		{4977FD9D-1574-495D-B1E9-3F397035550B}.Debug.ActiveCfg = Debug
+		{4977FD9D-1574-495D-B1E9-3F397035550B}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

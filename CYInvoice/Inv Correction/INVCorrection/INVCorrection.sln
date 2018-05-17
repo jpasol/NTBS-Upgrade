@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "INVCorrection", "INVCorrection\INVCorrection.vbproj", "{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Invoice Correction Setup", "Invoice Correction Setup\Invoice Correction Setup.vdproj", "{4977FD9D-1574-495D-B1E9-3F397035550B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F072F82D-EC7F-4D91-A6D0-6F8F6F014082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4977FD9D-1574-495D-B1E9-3F397035550B}.Debug|Any CPU.ActiveCfg = Debug
+		{4977FD9D-1574-495D-B1E9-3F397035550B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
